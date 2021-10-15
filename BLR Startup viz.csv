@@ -1,0 +1,725 @@
+﻿SN,Company,Vertical,Sub-vertical,Domain,Address,City,PinCode,"Founder edu: 1 others, 2: NIT, 3 : IIT, IIM, MS; ",Founder exp total,Dt of incorporation,Period wef incorporation yrs,Team no,Team tot man yrs exp,Innovation Quotion: 1-5,Awards,Awards details,"Stage: seed 1, POC 2, pilot 3, growth 4",Stage,Money Raised in M$,L Dt money recd,IP Filed/2 + Granted,No. of paid clients,Revenue Rs. Lakhs,Total Rating
+1,Kenome Technologies Pvt Ltd,AI Analytics,Enterprise Solutions,AI> Statstical Analysis > Robotic Process,"24, 3rd Fl. Comfort Towers (SBI Building), 10th Cross, Wilson Garden",Bangalore,560027,1,16,9-Aug-17,4.2,1,16,4,,,,,,31-Dec-18,,,,3.7
+2,"
+Inmobi Technology Services Pvt Ltd",Marketing,Enterprise Solutions,AI>Marketing > Chatbot/Robotic Process,"6th, 7th and 8th Floor, Block Delta (Block B), Embassy Tech Square, Kadubeesanahalli Village Outer Ring Road, Varthur Hobli",Bangalore,560103,3,13,19-Oct-06,15.0,,,,,,,,,,,,,3.0
+3,Greetude Energy Pvt Ltd,Energy,Cleantech,,"
+10th Floor, Delta Block,
+Sigma Software Technology Park,
+Varthur Lake Road, Whitefield",Bangalore,560066,3,10,19-Jul-14,7.2,4,,,,,,,,,,,,2.2
+4,Ecolibrium energy Pvt Ltd,Energy,Cleantech,Machine Learning> Data Classification,"F-101, Wilson Manor 13th cross, Wilson Garden ",Bangalore,560027,1,21,4-Nov-08,13.0,,,,,,,,4.2,04-Jul-17,,,,3.9
+5,Pluggx Technologies Llp,Iot,Automation & Services,IOT> Home Automation,"# 7/4, Flat No B1, R.S Mansion, Devegowda Road, Dinnur Main Road, R T Nagar,",Bangalore,560032,,,8-Nov-13,7.9,,,,,,,,,,,,,0.8
+6,Thingscloud Technologies Pvt Ltd,Cleantech,Automation & Services,IOT> AI> Home Automation,"#5, 2nd Floor, AC-720, 5th A Cross, HRBR Ist Block, Kalyananagar",Bangalore,560043,3,14,9-Jul-15,6.3,28,,3,,,3,Seed,0.526,24-Jun-17,,,156,8.0
+7,Lightmetrics Technologies Private Limited,Iot,EnterpriseTech,IOT>ML> Automobile > Computer Vision,"3014, Sobha Dahlia Bellandur Outer Ring Road",Bangalore,560103,3,13,10-Feb-15,6.7,,,,,,,,,,,,,2.2
+8,Uncanny Vision Solutions Pvt Ltd,AI,Computer vision,Image Processing > Computer Vision,"No 37, GINSERV, Leela Palace Rd, Kodihalli",Bangalore,560008,2,17,1-Nov-11,10.0,42,,4,,,1,Growing,1.47,25-Jun-20,,,632,19.1
+9,Enterox Systems (opc) Pvt Ltd,Iot,Enterprise Solutions,IOT> Enterprise Solution,"#5, Enterox Circle,
+7th Cross, 22nd Main,
+HSR layout Sector 1,",Bangalore,560102,1,16,2-Nov-15,6.0,3,,,,,,,,,,,,2.5
+10,Artivatic Data Labs Pvt Ltd,AI,Enterprise Solutions,AI > Enterprise Solution,"25 & 26, 2nd Floor, AVS Compound, 80 Feet Road, Koramangala 4th Block",Bangalore,560034,3,8,26-Sep-16,5.1,,,,,,,,10,26-Sep-17,,,,2.5
+11,Videoken Software Pvt Ltd,Education,Natural Language Processing,AI> Indexing Contentng of Video,"209 Phase -1, Adarsh Palm Meadows Ramagondanahalli",Bangalore,560066,3,50,21-Sep-16,5.1,17,85,2,8,"ET, 55P",4,,1.9,22-Oct-18,,20,,16.2
+12,Vernacular.ai,AI,Natural Language Processing,AI> NLP > Multilingual Chatbots,"One Co Work
+
+2/3, 2nd Floor, 80 Feet Road
+
+Sony World Junction, Koramangala",Bangalore,560034,3,3,4-Oct-16,5.0,,,,,,,,,,,,,1.0
+13,boxx.ai,AI,Enterprise Solutions,AI> AR for eCommerce,"91springboard - Koramangala, Salarpuria Tower-1",Bangalore,560095,3,12,29-Jul-16,5.2,,,,,,,,0.5,12-Jun-17,,,,2.0
+14,Fabulyst Pvt Ltd,AI,Enterprise Solutions,AI> Computer Vision,"1st Floor, #172, 14th Cross, 9th Main, Sector 6,
+HSR Layout",Bangalore,560102,1,9,6-Jun-16,5.4,,,,,,,,0.351,06-Jun-16,,,,1.5
+15,Absentia Virtual Reality Pvt Ltd,AR/VR,Computer vision,Computer Vision>AR/VR > Gaming,"317 Jayanagar 8th Block, 40th Cross",Bangalore,560082,1,5,15-Jun-15,6.3,,,,,,,,1.4,17-Apr-17,,,,1.3
+16,Techbins Solutions Pvt Ltd (Niki.ai),AI,chatbot,AI> Chatbot ,"80 Feet Rd, National Games Village Complex, 6th Block, Koramangala",Bangalore,560095,3,8,4-Jun-15,6.4,,,,,,,,2.4,28-Jun-17,,,,1.9
+17,Phasorz Technologies Pvt Ltd (DocsApp),Healthtech,,Data Management > Mobile Application,"3rd floor tower-d, Diamond District, D3, Kodihali, HAL Old Airport Rd, 150, Domlur",Bangalore,560008,3,7,31-Jul-13,8.2,,,,,,,,8.4,13-Dec-17,,,1425.51,31.1
+18,Prudle Labs Pvt Ltd,Supply Chain,"Logistics, Transporation, Technology",Supply Chain> Translation,"NASSCOM, Lower Ground Floor, 
+Diamond District ISRO Colony, Domlur",Bangalore,560008,1,31,8-Mar-17,4.6,12,71,2,,,1,,,,,,,9.7
+19,Vitor Health Sciences Pvt Ltd,Healthtech,,Health Care> ,"NASSCOM Startup Warehouse,
+Diamond District, Old Airport Road,",Bangalore,560008,1,17,15-Jun-18,3.3,,,,,,,,,,,,,2.1
+20,Inferencia Logic Pvt Ltd,AI,AI,AI> ML Libraries,"No. 1 & 2, A1 Block, Kundanahalli",Bangalore,560048,1,13,7-Mar-18,3.6,,,,,,,,,,,,,1.7
+21,Progate Technology Pvt Ltd,Education,,EdTech > Platform for learning coding,"WeWork EGL 
+Embassy Golf Links, Cinnabar Hills Off Intermediate Ring Road, Domlur",Bangalore,560071,,,31-Jul-14,7.2,,,,,,,,100,15-Feb-17,,,,10.7
+22,Webmobi,Customer Data Platform,Enterprise Solutions,Data Management> Mobile App > Webpage Solution,"401,Regency Enclave
+Magrath Rd
+Ashoknagar",Bangalore,560025,3,19,1-Jan-11,10.8,31,118,2,,,2,Paid POC,,,,,210,18.2
+23,Xoxoday,Data Management,Enterprise Solutions,Data Management> SaaS platform,"2nd Floor, 17 Bhagyalaxmi Square, 3rd Sector, HSR Layout",Bangalore,560102,1,15,2-Apr-12,9.5,,,,,,,,0.45,03-Oct-16,,,,2.6
+24,Copro Technologies Pvt Ltd,Customer Data Platform,Enterprise Solutions,Data Management > Startup Engagement,"NASSCOM 10K warehouse, Corporate tower - Central Atrium Lower Ground Floor - DD3, No. 150, Diamond District Frontage Walking Path, Domlur",Bangalore,560008,,,16-Feb-17,4.7,,,,,,,,,,,,,0.5
+25,Highway Delite ,Transportation & Logistics,Analytics,Transportaion > Travel & Leisure,"NASSCOM 10K warehouse, Corporate tower - Central Atrium Lower Ground Floor - DD3, No. 150, Diamond District Frontage Walking Path, Domlur",Bangalore,560008,1,16,1-Jan-15,6.8,12,60,2,5,Coverage in media,3,Early Tarction,,,,,,8.2
+26,Mintm Mediatech Pvt Ltd,AR/VR,chatbot,AR/VR> Digital Chatbot,"758, 19th Main Rd, Parangi Palaya, Sector 3, HSR Layout",Bangalore,560102,3,15,12-Mar-12,9.6,,,,,,,,0.75,01-Sep-17,,,,2.7
+27,Teja Soft Innovations Pvt Ltd,AI,Enterprise Solutions,AI> Software Solutions,"17c/18, Nandi Gardens Sector-2,
+J.P Nagar 9th Phase",Bangalore,560108,1,25,18-Jan-05,16.8,,,,,,,,,,,,,4.2
+28,Qunu Labs Pvt Ltd,,,Quantum Technology,"Second Floor, East Wing, 
+Centenary Building, 28 MG 
+Road",Bangalore,560025,1,23,21-Sep-16,5.1,,,,,,,,,,,,,2.9
+29,Automatski Solutions Pvt Ltd,Semiconductor,Enterprise Solutions,Quantum Computers,"# 5064, Sobha Cinnamon, Harlur Road Kudlu Village, Madiwala Post",Bangalore,560068,3,23,11-Jul-16,5.3,,,,,,,,,,,,,3.0
+30,Emflux Motors Pvt Ltd,Automotive,Two-wheelers & Smart cities,Automotive > Electric Super Bike,"16 , Bhuvannappa Layout, Tavarekere
+Main Road",Bangalore,560029,3,10,23-Aug-16,5.1,,,3,,,,,0.538,31-Jan-18,,,,2.1
+31,Nds Eco Motors Pvt Ltd,Automotive,Two-wheelers & Smart cities,Automotive > Electric Scooter,"Sy No.61/1A1, 1st Main, Cipla Road off Old Madras Road, Virgo Nagar, Avalahalli",Bangalore,560049,,,4-Jun-15,6.4,,,,,,,,,,,,,0.6
+32,Open App Techcommerce Pvt Ltd,Iot,Enterprise Solutions,IOT> Enterprise Solution> Montioring,"#1, 3rd floor, Sri Chakra, 18th Main road, Sector 3, HSR Layout",Bangalore,560102,1,9,6-Mar-14,7.6,,,,,,,,1.7,10-Feb-19,,,,1.9
+33,Alphaics India Pvt Ltd,Semiconductor,AI,Semiconductor> AI based IC > Data analytics,"6th Floor, H2 Block, Mountain Ash Building,
+Manyata Embassy Business Park,
+Outer Ring Road",Bangalore,560045,3,19,13-Oct-16,5.0,,,,,,,Series A,2.4,20-Nov-17,,,,2.9
+34,Yuktix Technologies Pvt Ltd,Iot,IIOT,IOT > Agriculture iot > IIOT,"Floor-2, No. 1713, 19 main, Sector-2, HSR Layout",Bangalore,560102,3,19,4-Oct-13,8.0,6,,,,,,,0.133,01-Dec-17,,,,3.3
+35,Touchkin Eservices Pvt Ltd (Wysa),AI,chatbot,AI > Emotion Test chatbot ,"16th Cross, 2nd Main Indiranagar 2nd Stage",Bangalore,560038,3,22,19-Jan-15,6.7,,,,,,,,1.7,30-Jul-17,,,,3.3
+36,Retisense Tech India Pvt Ltd,Iot,Merchandising,IOT> Smart Insole for Shoe,"No. 515, 23rd Cross, 12th Main, Sector 7, HSR Layout, ",Bangalore,560102,3,18,11-Jun-14,7.4,,,,,,,,0.3,07-Jan-15,,,,2.8
+37,Eder Labs (Droptrain Ai Pvt Ltd),AI,Analytics,AI> Enterprise Solutions,"#87,Banjara Orchards, Horamavu Agara",Bangalore,560043,1,25,24-Jul-18,3.2,5,,4,"Graduated from Target & NetApp accelerator programs. Covered by YourStory, I2I-19 winner",,1,,0,,0,0,60,4.9
+38,Gridraster India Pvt Ltd,AR/VR,Computer vision,Computer Vision>AR/VR > Enterprise Solution," No. 549, 14th cross, 26th Main Rd, 1st Phase, JP Nagar",Bangalore,560078,1,12,20-Jun-16,5.3,,,,,,,,2.2,09-Oct-17,,,,2.0
+39,Parallel XR LLP,AR/VR,Computer vision,Computer Vision > AR/VR > Enterprise Solution > Gaming,164 9th Cross Indiranagar 1st Stage,Bangalore,560038,1,14,30-Oct-18,3.0,,,,,,,,,,,,,1.8
+40,Voltrode Mobility Pvt Ltd,Smart Cities,Two-wheelers & Smart cities,Smart Cities > Electric Bike Sharing,"#38, 4th Main Rd, BEML Layout 3rd Stage, RR Nagar",Bangalore,560098,,,14-May-18,3.4,,,1,,,,,,,,,,0.4
+41,Paladion Cyber Technologies (india) Pvt Ltd,Robotics,AI,Robotics >AI> Cyber Security,"Shilpa Vidya, 49 1st Main, 3rd Phase JP Nagar",Bangalore,560078,3,25,16-Feb-18,3.7,1,,2,0,,,,10,18-Jun-14,,,,4.3
+42,Dataweave Software Pvt Ltd,Customer Data Platform,"B2B/Enterprise, B2B eCommerce",B2B > eCommerce,"Sai Suvarna Arcade, No 1-10/A, 2nd Floor, 27th Cross, 2nd Main Road, 7th, Block, Jayanagar",Bangalore,560070,3,12,1-Apr-11,10.5,1,,1,0,,,,0.29,05-Mar-17,,,,2.7
+43,Liv Artificial Intelligence Pvt Ltd (Liv.Ai),AI,Natural Language Processing,AI> NLP> Speech Recognition,Old Airport Road,Bangalore,560008,3,15,1-May-15,6.5,1,,3,2,Coverage in national medias,,,,01-May-17,,,,2.9
+44,Practo Technologies Pvt Ltd,Healthtech,AI,HealthTech> AI> Doctor Booking,"Salarpuria symbiosis Arekere Village Begur, Bannerghatta Main Rd, Venugopal Reddy Layout, Uttarahalli Hobli",Bangalore,560076,3,10,8-May-08,13.4,1,,1,,,,Series D,234,16-Jan-17,,,,26.1
+45,InstaBase,,,,"Agara Village, 1st Sector, HSR Layout",Bangalore,560102,1,12,1-Jan-15,6.8,20,,1,,,,Series A,27,14-Jun-17,,,,6.1
+46,Qubole Software India Pvt Ltd,Data Management,Enterprise Solutions,Data Management > Enterprise solution> Cloud Services,"No.256, H.S.R. LAYOUT, 6th SECTOR 17th Cross, 5th Main,",Bangalore,560102,3,21,22-Dec-11,9.8,1,,2,,,,Series D,75,08-Nov-17,,,,11.1
+47,Beroe Consulting India Pvt Ltd,Enterprise Solutions,"Logistics, Transporation, Technology",Enterprise Solution > Supply chain ,"Number 7, KIADB Export Promotion Industrial Area, Whitefield",Bangalore,560066,1,17,31-Aug-05,16.1,1,,2,,,,Series A,10,09-May-16,,,,4.7
+48,Tekety's Pvt Ltd,Customer Data Platform,"B2B/Enterprise, B2B eCommerce",eCommerece Platform> eTickets for Puja,"#302,7th Main, Railway Layout, Ullal Main Road",Bangalore,560056,1,5,21-May-16,5.4,1,,1,,,,,,,,,,1.3
+49,Charmboard,AI,Computer vision,AI> Computer Vision > Data capture from video,"460, 3rd Floor, 17th Cross Road, 15th Main Rd, Sector 4, HSR Layout",Bangalore,560102,1,22,1-Mar-14,7.6,1,,2,,,,Series A,5,29-Jun-17,,,,3.8
+50,Orxa Energies Pvt Ltd,Transportation & Logistics,Two-wheelers & Smart cities,"Transportation> Electric Vehicle, Cross industry Core Platform Technologies (eg. Video analytics, Speech technologies, AR/VR etc.);Mobility (Electric Vehicles & Battery Technology)","98/50, 2nd Main Road, Rajaji Nagar Industrial Town, Rajaji Nagar",Bangalore,560044,1,20,7-Aug-15,6.2,15,75,3,5,"a.	Winner, Integrate to Innovate award by Invest India, Startup India, Schneider Electric, awarded INR 3L: Dec 18 
+b.	Selected for Investment from GAIL Startup Fund â€œPankhâ€: Jun 19, awaiting fund release.
+c.	Angel Investment of INR 3CR: June2018
+d.	Selected into Airbus Bizlabs Accelerator program, Nov 17- present 
+e.	Winner, IOT Next startup award, Nov 17 
+f.  Media Coverage: YourStory (multiple instances), Business Standard, Forbes India, Deustche Welle, Clean Tech & Auto Blogs ( PlugIn India, IamRenew, etc)",3,,0.5,,4.5,7,32,11.8
+51,Kestrel Innovations Pvt Ltd,Semiconductor,VLSI design,Semiconductor>Geo-Positioning Chips,"80ft road,Kodihalli, HAL stage 2, Indiranagar",Bangalore,560078,1,19,9-Dec-11,9.9,13,,2,,,,,,,,,,4.1
+52,Sculpe Technologies Pvt Ltd,Retail,"B2B/Enterprise, B2B eCommerce",eCommerce > Retail> Handmade,"#776, Venkateshwara Nilaya,7th cross,Nagasandra village",Bangalore,560073,1,11,20-Aug-15,6.2,,,1,,,,,,,,,,1.9
+53,Cell Strat,AI,Analytics,AI> Analytics ,"Coworks, RMZ Ecoworld",Bangalore,560103,3,22,1-Jan-17,4.8,,,1,,,,,,,,,,3.0
+54,Buoyanci Finpro Pvt Ltd,Enterprise Solutions,Fintech,Fintech > Business startegy,"47, Byrasandra main, 1st Block, Jayanagar",Bangalore,560011,1,34,16-Jul-18,3.3,,,1,,,,,,,,,,3.9
+55,Adhrit Services Pvt Ltd,Consultancy,Enterprise Solutions,Enterprise Solution> Consultancy > SAAS,"414,41st cross, 7th main,5th block, jayanagar",Bangalore,560041,1,18,7-May-13,8.4,,,,,,,,,,,,,2.7
+56,Mobiotics IT Solution Pvt Ltd,Iot,smart city,IOT > Smart City > Smart TV,"1196, 22nd Cross Rd, 
+Sector 3, HSR Layout",Bangalore,560102,3,18,4-Jan-11,10.8,4,,2,,,,,,,,,,3.6
+57,Fabric Monde Marketing Pvt Ltd,Supply Chain,"B2B/Enterprise, B2B eCommerce",B2B > eCommerce > Handmade Fabric,"Baskara's Plaza, 1143, 5th Main Rd, Sector 7, HSR Layout",Bangalore,560102,3,,4-May-17,4.5,12,,,6,"Fabric Monde achieved a spot in the top 5 & a grant of 4 Lakhs in the Smart Fifty - Solutions to Transform India, Fabric Monde bagged the top 5 award among 100+ startups that applied for TIE Rajasthan, CEO Jyothi presenting a report on demand in the Handloom sector to the Indian Textile Minister Smriti Irani, Fabric Monde was recognised by Textiles Fair India for our impact on the Handloom space, Graduated from IIMB's incubation center, Fabric Monde was recognized by Eximus, CEO Jyothi had an opportunity to discuss with Vinod Khosla on the Fabric Monde's journey",,,,,,,,1.9
+58,Technosphere Labs Pvt Ltd,Smart Cities,IIOT,IOT> Smart City > Enterprise Solutions,"6/A, Amit Plaza, 3rd Floor, 3rd Phase, JP Nagar",Bangalore,560076,3,40,8-Apr-13,8.5,4,,,,,,,,,,,,5.3
+59,Nive Systems Pvt Ltd,Engineering Services,"ADAS, Embedded, and IOT",Engineering Services> IIOT >Test Solutions,"2nd Floor, 808, 19th Main Rd, 
+2nd Sector, HSR Layout",Bangalore,560102,1,12,20-Sep-18,3.1,10,,1,,,,,,,,,,2.4
+60,Lxier Technologies Pvt Ltd,Iot,smart city,IOT > Smart city > Agriculture,"401, 8th Main Rd, 5th Block, 1st Stage, HBR Layout",Bangalore,560043,1,13,24-Oct-18,3.0,3,,2,,,,,,,,,,2.1
+61,Wegot Utility Solutions Pvt Ltd,Water Management,"ADAS, Embedded, and IOT",IOT > Water Management > IOT,"302 Noble Nest Apartment,
+Door No 219/1, 8th Cross,
+Talacauvery Layout,
+Basavanagar",Bangalore,560037,1,16,1-Apr-15,6.5,5,,3,,,,,,,,,,3.0
+62,Flytta Innovations Pvt Ltd,logistics,"Logistics, Transporation, Technology",Logistics > Online Platform for Reloaction,"Prestige Atlanta, 80 Feet Rd, Koramangala 1A Block",Bangalore,560034,1,11,7-Jun-16,5.4,2,17,1,,,,,,18-Jul-17,,,,3.1
+63,360 Health Vectors Pvt Ltd (Health Vectors),Healthtech,AI,HealthTech > AI> Preventive Healthcare,"Block B, 008, Euphoria, Suncity Corporate Leisure, Outer Ring Road Iblur",Bangalore,560102,1,24,13-Jun-11,10.3,15,,2,,,,,,,,,,4.8
+64,Charka Technologies Pvt Ltd,Iot,smart city,,Olive Nest Appartment M V Road; Arekkere,Bangalore,560076,,,1-Sep-16,5.1,,,,,,,,,,,,,0.5
+65,Fernlink Technologies Pvt Ltd,IoT Platform,Enterprise Solutions,IOT Platform > Enterprise Solution > Cloud Services,"Ataura Business Centers, 99D, 2nd floor, 2nd A Cross Rd, 5th Block Koramangala",Bangalore,560095,1,12,20-Jun-16,5.3,,,1,,,1,Bootstrapped,,,,,,2.0
+66,Proche Solutions,Consultancy,HR tech,Consultancy > HR Services,"First Floor, No 14/6, Thamarai Kannan Road, Murphy Town, Ulsoor",Bangalore,560008,,,1-Jan-17,4.8,,,,,,,,,,,,,0.5
+67,Grasp Io Innovations Pvt Ltd,IoT Platform,"ADAS, Embedded, and IOT",IOT Platform > IOT Cloud Services,"#5, 1st Floor, 4th Stage, 3rd Block, Basaveshwaranagar",Bangalore,560079,1,9,18-Aug-11,10.2,,,2,,,3,,,,,,,2.5
+68,Aquasphere Greentech Solutions Pvt Ltd,Water Management,Cleantech,Water Management > Water Treatment,"316, 40th Cross Rd, 8th Block, 5th Block, Jayanagar",Bangalore,560082,1,33,25-Apr-11,10.5,4,,2,,,4,,,,,,,5.3
+69,Banashree Renewable Energy System Pvt Ltd,Semiconductor,VLSI design,Semiconductor > VLSI Design > IC Design,"#660/B, Ranganthpura, 
+Magadi Road",Bangalore,560079,,21,15-Mar-16,5.6,,,2,,,3,,,,,,,3.2
+70,Xplorazzi Adventures Pvt Ltd,Drones,Computer vision,Drones > Computer Vision > 360 degree Photography & Videography,"515, 12th Main Rd, Sector 7, HSR Layout, ",Bangalore,560102,3,21,8-Jul-15,6.3,4,33,1,,,3,,,,,,,5.9
+71,Coalition House Pvt Ltd,Product Design,Enterprise Solutions,Product Design > Collabration for Startups,"91 Springboard, 3rd floor, Nanjayya Reddy Layout, 8th Block Koramangala",Bangalore,560095,1,7,5-Jun-18,3.4,,,1,,,2,Paid POC,,,,,,1.4
+72,Primerail Infralabs Pvt Ltd,Smart Cities,smart city,Smart City > Rail,"301, Wings of Eagles,
+#86, SS Commercial Estate,
+Varthur Road, C V Raman Nagar",Bangalore,560093,3,20,14-Sep-17,4.1,3,,2,,,3,,,,,,,3.3
+73,Makerinme Technologies Pvt Ltd,Education,"ADAS, Embedded, and IOT",Education > Robotic kits,"1176, 12th B main, HAL 2nd stage, Indiranagar",Bangalore,560008,1,20,10-Feb-16,5.7,2,34,2,,,4,,,,,,,5.8
+74,Simlabs Software LLP,AR/VR,Enterprise Solutions,AR/VR > Enterprise Solutions > Application ,"#58,3rd floor, Bali Complex, 8th cross, Kaggadasapura",Bangalore,560093,,,31-Oct-12,9.0,,,3,,,3,,,,,,,1.5
+75,Biznustek Systems Pvt Ltd,Water Management,Enterprise Solutions,Waste Water Management > Manufacturing Plants,"#25, 3rd Floor, JP Arcade, 8th Main Road, Binny Layout, 1st Stage,, Vijayanagar",Bangalore,560040,1,5,17-Sep-14,7.1,,,3,,,3,,,,,,,1.9
+76,Hobvision Technologies Pvt Ltd,IIOT,Enterprise Solutions,IIOT > Enterprise Solution," #185, 3rd Floor, LEELDAS Towers, 1st Main, Chord Rd, Mahalakshmipuram Layout, Mahalakshmi Layout",Bangalore,560086,,,25-Feb-11,10.6,,,2,,,4,,,,,,,1.7
+77,Meclink B2b Services And Trading Pvt Ltd,Enterprise Solutions,"B2B/Enterprise, B2B eCommerce",Enterprise Solutions > B2B Business,"Belthur, Kadugodi,",Bangalore,560067,2,20,25-Jan-17,4.7,,,1,,,2,,,,,,,2.9
+78,Agiledge Process Solutions Pvt Ltd,IoT Platform,Enterprise Solutions,IOT platform > Transportaion management,"#6, 1st ﬂoor, MLA Layout, RT Nagar",Bangalore,560032,1,18,7-Jan-11,10.8,4,,2,,,3,,,,,,,3.7
+79,Tensor Labs Pvt Ltd,AR/VR,Analytics,AR/VR> Analytics,"#48 , BTM Residency P-II
+Akshayanagar",Bangalore,560068,1,19,23-Feb-18,3.6,,,2,,,3,,,,,,,2.8
+80,Pioctave Solutions Pvt Ltd (Piocative),IoT Platform,"ADAS, Embedded, and IOT",IOT Platform > Home Devices,"1217 4th cross 1st block, HAL 3rd Stage, Hal,
+New Tippasandra",Bangalore,560075,1,19,26-Nov-15,5.9,9,,2,,,3,,,,,,,3.7
+81,DeepSight AI Labs Pvt Ltd,Surveillance,AI,Surveillance > AI > CCTV," No 84, 3rd Cross Rd, 4th Block, Banashankari 3rd Stage, Banashankari",Bangalore,560085,,14,27-Feb-18,3.6,4,,3,4,"Recognized as ""Startup India"" by Department of Industrial Policy and Promotion, Govt. of India.,DeepSight AI Labs has been selected by NVIDIA for the Inception Program., Winners of the Create@Alibaba Cloud Startup Contest.,Article published by YourStory about DeepSight AI Labs winning the Alibaba Cloud contest.",3,Paid Customers,,,,,,2.9
+82,Instoried Research Labs Pvt Ltd,AI,chatbot,AI > Chatbot > Emotion,"No 103/13, 1st Flr, 2nd Mn Puttenahalli Above Lakshmi Kindergarden",Bangalore,560078,1,9,17-Nov-17,3.9,,,2,5,"Best Product and innovation, Economic Times Innotribe Awards, Startup of the Year, 2018, Startup Masterclass by IIT Kanpur and Fundtonic, Best Woman driven startup, Electrifi Awards by JSS, Indian Angel Network and TIE, Best Woman driven startup, Womennovator Awards, Best AI Startup, Disrupt 4.0 Awards",3,,,,,,,2.2
+83,Matelabs Innovations Pvt Ltd,Data Management,AI,Data Management > AI/ML Platform,"4th Floor, Salarpuria Tower -1, No. 22, Industrial Layout Landmark: Forum Mall, Hosur Rd, 7th Block, Koramangala",Bangalore,560095,1,7,30-Jun-16,5.3,13,,2,2,Coverage in media,3,,0.55,17-Sep-18,,,,2.9
+84,K-nomics Techno Solutions Pvt Ltd,Education,,Education > Digital Book,"1143, 1st Floor, 6th Main Road, 7th Sector HSR Layout",Bangalore,560102,1,,30-Dec-13,7.8,3,,1,,,,,,,,,,1.2
+85,Invenzo Labs India Pvt Ltd,Enterprise Solutions,SaaS,Enterprise Solution > SAAS Platform > Digital Process Automation,"SHRI KRISHNA MANSION"" 147/10, 3rd Floor, 9th Cross Sarakki Main Road, above SBI bank, 9th Cross Rd, Jeewan Sathi Colony, 1st Phase, JP Nagar,",Bangalore,560078,1,,25-Jun-15,6.3,7,,2,1,Nasscom Emerge 50 2018winners,,,,,,6,,2.1
+86,Iclimb Systems India Pvt Ltd,IIOT,IIOT,IIOT > Product & Solutions,"112/301, 2nd Main
+Kasturinagar",Bangalore,560065,1,26,22-Jan-16,5.7,,,2,,,3,,,,,,,3.7
+87,Linkeddots Engineering Solutions Pvt Ltd,IoT Platform,IIOT,IOT > IIOT > IOT for Security,"490, 1st Cross Rd, Koramangala 8th Block, Koramangala",Bangalore,560030,1,79,30-Apr-15,6.5,6,79,2,5,Media and Magazine Coverages,,,,,,,,15.1
+88,Moveinsync Technology Solutions Pvt Ltd,Transportation & Logistics,Enterprise Solutions,Transportaion > Enterprise Solution > Commute App,"4th Floor, 17th Cross Road, Sector 4, HSR Layout",Bangalore,560102,3,21,24-Jun-09,12.3,,,1,4,National Media and Magazine Coverage,4,,12,03-Apr-18,,4,,5.9
+89,Yourquote Solutions Pvt Ltd,Lifestyle,,LifeStyle > App for content writing,"Jeevan Bima Nagar Main Rd, Hal, HAL 3rd Stage, New Tippasandra",Bangalore,560075,3,16,1-May-17,4.5,20,16,1,,,,,1,20-Dec-17,,,,5.0
+90,Streamingo Solutions Pvt Ltd,AI,Natural Language Processing,AI > NLP > IP > Video Processing,"42, 2nd Main, Vyalikaval",Bangalore,560003,1,88,12-Jan-15,6.8,8,192,2,,,4,,,, ,,,24.1
+91,Adnaks Marketing Solutions Pvt Ltd (corefactors),Marketing,"B2B/Enterprise, B2B eCommerce",Marketing > Telesales Generating,"Inspire Work Place,
+#134&135, Second Floor,
+LRDE Layout, Karthik Nagar, Doddanaekundi Post",Bangalore,560037,1,29,22-Aug-15,6.2,3,29,1,3,"Expert's choice by software suggest, winner hot 100 to grace, CIO marketing technology",1,Seed,,,,,,6.2
+92,Rideally Travels Pvt Ltd,Transportation & Logistics,"Logistics, Transporation, Technology",Transportation > Platform to share ride,"417, 2nd Floor, 27th Main Sector-1, HSR Layout, Near ICICI Bank",Bangalore,560102,3,20,27-Mar-15,6.6,3,51,1,,,,,,,,,,6.7
+93,Integration Wizards Solutions Pvt Ltd,IoT Platform,Enterprise Solutions,IOT Platform > IIOT > Enterprise Solution,"4th Floor, 217, Outer Ring Rd, East of NGEF Layout, Kasturi Nagar",Bangalore,560043,3,30,7-Jan-14,7.8,7,62,2,10,"Coverage in media, Game changer award by Deccan Herald",3,Growth,,,,,,10.0
+94,Juno Tele Solution Pvt Ltd,Fintech,"B2B/Enterprise, B2B eCommerce",Fintech > Payment Gateway,"4th T Block East, Pattabhirama Nagar, Jayanagar",Bangalore,560041,1,144,21-Dec-11,9.8,6,144,2,,,4,Growth,,,,,,26.6
+95,TechChefs Software Pvt Ltd,IoT Platform,Enterprise Solutions,IOT platform > Enterprise Solution > Cloud Services > Mobile App Development,"#62, 4th Floor, The High Street, 11th Main, Jayanagar 4th Block",Bangalore,560011,1,41,29-Jan-15,6.7,5,92,2,,,4,Growth,,,,,,12.2
+96,Iotracx Pvt Ltd (AgroBlock),Transportation & Logistics,Agritech,Logistics > Agritech > Industrial Shipping,"107, IIIT-B Innovation Center
+4th Cross Road, Electronic City Phase 1
+Electronic City",Bangalore,560100,1,33,1-Dec-16,4.9,9,40,2,,,2,POC,,,,4,,8.1
+97,Novigo Solutions Pvt Ltd,Enterprise Solutions,"B2B/Enterprise, B2B eCommerce",Enterprise Solution >Manufacturing process > Form And work flow,"Invenger Tower, 3rd Floor, Site No 1181, 7th Sector, HSR layout",Bangalore,560102,1,70,25-Jun-13,8.3,4,70,2,3,"Awarded Microsoft Gold Partner. Workforce risen to 150+, Won the Emerging Company of the year award at Indian Achiever's forum, Awarded for ""Best Innovative Business"" at Spandana Business Award Ceremony",4,,,,,50,,18.9
+98,Coders Brain Technology Pvt Ltd,Enterprise Solutions,Enterprise Solutions,Enterprise Solutions > Business Consultant,"548, 14th Main Rd, Sector 3, HSR Layout",Bangalore,560102,,,23-Oct-15,6.0,,,,,,4,Growth,,,,30,,4.0
+99,RespiCare Healing India Pvt. Ltd,Healthtech,,Healthcare > Natural Therapy,"A907, Esteem Classic Apartment, 25/2, Industrial Suburb, Behind Ravindu Toyota, 1st Stage Rajajinagar",Bangalore,560022,1,,1-Jan-13,8.8,,,1,,,4,Growth,,,,,,1.4
+100,Bhsavi Cab Services Pvt Ltd (my ofiice cab),Transportation & Logistics,EnterpriseTech,Transporation > Cab Services,"No.16, Hallikara Arcade, 2nd Floor, Chunchagatta, JP Nagar 7th Phase, Konanakunte",Bangalore,560062,1,31,11-May-15,6.4,,,1,5,Coverage in national medias,1,Seed,0.6,01-Nov-16,,,,4.4
+101,Loyalytics Consulting Llp,Consultancy,"B2B/Enterprise, B2B eCommerce",Consultancy > Enterprise Solution,Jakkur,Bangalore,560043,1,36,14-Aug-15,6.2,3,36,1,,,3,,,,,,,7.4
+102,Data Solutions Pvt Ltd,Iot,smart city,IOT > Smart Cities > Connected Devices,"157/1, JP Classic, 3rd Floor, Silver Corporate Block 1, EPIP Phase 2, KAIDB, Whitefield",Bangalore,560066,1,19,7-Dec-12,8.9,7,,2,1,Digital Trailblazers award from the State of Karnataka for their pioneering work in the field of wearable Digital Technology for the safety and protection of the people of India,4,Growth,,,,,,4.0
+103,Active Intelligence Pte Ltd,Fintech,Enterprise Solutions,Fintech > Enterprise Solution,"5th Floor, Navigator Building, ITPL, Pattandur Agrahara, Whitefield,",Bangalore,560066,1,67,16-Feb-16,5.7,91,67,1,,,4,Growth,14.8,14-Sep-20,,12,,21.6
+104,Coviam Technology And Services Pvt Ltd,AI,chatbot,AI > ChatBot,"24th main,11th cross, Sector 1, HSR Layout",Bangalore,560102,,,7-Apr-15,6.5,,,2,,,,,,,,15,,2.4
+105,Stylumia Intelligence Technology Pvt Ltd,AI,,AI > Fashion Technology,"No. 233, Shine on Block 2, Rahat Bagh,, C V Raman Nagar",Bangalore,560093,1,27,10-Dec-15,5.9,3,27,2,,Target cohort,3,,,,,,,6.0
+106,Scientist Technologies,Smart Cities,chatbot,Smart Cities> ChatBot > Cyber Security,"We Work Galaxy, 43, Residency Rd, Shanthala Nagar, Ashok Nagar",Bangalore,560025,1,26,1-Jan-16,5.8,14,70,2,,,4,Growth,,,,5,71.14,11.7
+107,CyberPact Solutions,,,,"Achhutha Enclave, Nagarbhavi",Bangalore,560079,1,18,1-Jan-19,2.8,4,,1,,,4,Growth,,,,10,,3.9
+108,Ak Consults (Campus Live),AR/VR,Computer vision,AR/VR > Education ,"346/36, 7th Main Road, 2nd Block Jayanagar",Bangalore,560011,1,7,1-Mar-15,6.6,2,14,2,,,1,Seed,,,,,,2.9
+109,Yostra Labs Pvt Ltd,Healthtech,"ADAS, Embedded, and IOT",HealthTech > Device > Diabetics Monitoring,"Bangalore Bioinnovation Centre (BBC) Bangalore Helix, Electronics City Phase 1, Biotech Park,",Bangalore,560100,1,68,4-Aug-14,7.2,9,93,2,,,4,Growth,215.362,08-Dec-17,,,,36.9
+110,Thinkerbell Labs Pvt Ltd,Healthtech,"ADAS, Embedded, and IOT",HealthTech > Brile Device ,"262, 6TH MAIN ROAD
+STAGE 2, BTM LAYOUT",Bangalore,560076,1,11,10-Jun-16,5.4,9,28,2,9,"Winner, Great Tech Rocketships, 2016 - Department of International Trade, UK Gov
+Winner, 500K BIZ Launchpad - Deshpande Foundation (given out by Mr. Narayan Murthy)
+Winner, Dell Startup Challenge
+Winner at London Acumen Pitch Event
+Top 2 startups at the VILCAP accelerator, Coverage in National and International Media",4,Growth,187.72,26-Jul-17,,,,24.3
+111,Ecostp Technologies Pvt Ltd,Environmental,Cleantech,Environmental > CleanTech > Water Purification,"Brigade Real Estate Accelerator Program,
+Brigade Gateway Campus, Malleswaram - Rajajinagar",Bangalore,560055,3,75,5-Sep-17,4.1,4,75,2,,,3,Paid POC,,,,,,14.2
+112,City Surveillance Services Pvt Ltd,Security,Computer vision,Security > Computer Vision > Surveillance,"W202, 1st Floor, IIITB, 
+Electronic city, Phase 1",Bangalore,560100,1,30,5-Dec-16,4.9,3,30,1,,,4,Growth,,,,,,6.4
+113,VresQ Systems & Systems,,"ADAS, Embedded, and IOT",Embedded Solutions,"KHM Block, Ganganagar, RT nagar Post",Bangalore,560032,,,1-Jan-16,5.8,,,1,,,,,,,,5,,1.2
+114,Matriot Solutions Pvt Ltd,IIOT,IIOT,IIOT > Asset Tracking,"4th Floor, NCR Arcade
+580/B, Sector 6, HSR Layout",Bangalore,560102,1,42,25-Sep-17,4.1,2,42,2,5,"Recognized by Department of Industrial Policy & Promotion (DIPP) under the Startup India Program. MatrIoT's DIPP No is DIPP10777, Recognized by the Government of Karnataka Startup Cell and has been allotted with the Registration Number : KBITS/SK-REGN/2018-19/664/420., Recognized and currently incubated in NASSCOM CoE-IoT leveraging the knowledge of industry and experts in mentoring and guiding us to acheive MatrIoT's vision., Won the award in the category Supply Chain Technology Advancement / Solution Implementation at 7th Manufaturing Supply Chain Summit, Mumbai., Won the Startup of the Year - IoT Solution (Warehousing) in the 5th Inflection Awards.",4,Growth,,,,,,8.7
+115,Next Big Innovation Labs Pvt Ltd,Healthtech,,Healthtech > 3D Printing > Bioprinter, 5th Phase J.P.Nagar,Bangalore,560078,1,32,6-May-16,5.4,14,82,3,13,"4 National Media Recognition, 9 Inncubation and awards",3,Paid POC,4.9,,,,,12.5
+116,Lab4Life Bioresearch Pvt Ltd,Healthtech,,," Electronics City Phase 1, Electronic City",Bangalore,560100,,,28-Feb-12,9.6,,,,,,,,,,,,,1.0
+117,Mercuri Biotechnologies Pvt Ltd,,"B2B/Enterprise, B2B eCommerce",Business > Multiventure,"Helix Biotech Park, Electronics City Phase 1, EGF-8",Bangalore,560100,1,7,1-Jan-17,4.8,,,,,,,,,,,,,1.2
+118,Vnir Biotechnologies Pvt Ltd,Healthtech,Computer vision,Healthtech > Imaging > Diagnosis,"Bangalore Bioinnovation Center
+Helix Biotech Park, Electronic City Phase I",Bangalore,560100,3,18,11-Apr-17,4.5,,,2,2,"Elevate 100, BIG grant",2,Grants,,,,,,3.0
+119,Bizmobile It Solutions Pvt Ltd(Mobijini),Enterprise Solutions,"B2B/Enterprise, B2B eCommerce",Enterprise Solution > B2B eCommerce,"5th Block, Jayanagar",Bangalore,560041,1,25,5-Jun-15,6.4,5,105,2,,,4,Growth,,,,,,11.5
+120,Movingup Products Pvt Ltd (FlippAR),AR/VR,Computer vision,ComputerVision > AR App,"46/1, Church Street",Bangalore,560001,3,13,12-Aug-15,6.2,2,13,2,4.75,Coverage in Local And National Media,4,Growth,,,,,,4.1
+121,Denovo Biolabs Pvt Ltd,Healthtech,,Healthtech > Diagnostic > Medical Research,"IBAB Campus, Biotech Park
+Electronics City Phase 1",Bangalore,560100,,,21-May-13,8.4,,,1,,,3,Paid POC,,,,,,1.2
+122,Purvinnovations lab Pvt Ltd (Connektdlivz),Iot,Enterprise Solutions,IOT> Enterprise Solution > Tracking Platform,"3/3 Krishna Nilaya, Adarsh Palm Meadows Gate, Varthur main road, Whitefield",Bangalore,560066,3,22,10-Feb-16,5.7,,,1,,,3,Paid POC,,,,,,3.4
+123,Mverve,Enterprise Solutions,Enterprise Solutions,Enterprise Solutions,"#41, Sri Krishna Mansion, 3rd Floor
+S End D Cross, JP Nagar 3rd Phase",Bangalore,560078,1,18,1-Jun-17,4.4,,,1,,,3,Paid POC,,,,,,2.7
+124,Living waters,,Enterprise Solutions,Enterprise Solutions > NT > BT >IT,"148/10, 16th main, Bsk - ist stage, Block - 2",Bangalore,560050,,,,121.9,,,1,,,4,Growth,,,,,,12.7
+125,Skyfire Applied Intelligence Pvt Ltd (Atom360),Healthtech,"industrial Automation, Robotics",Healthtech > AI > CV,Yelahanka New Town ,Bangalore,560064,1,7,1-Aug-17,4.2,,,2,1,winner IBM watson AI,2,Pilot,,,,,,1.7
+126,Jkn Nanosolutions Pvt Ltd,Enterprise Solutions,Enterprise Solutions,Enterprise Solutions > NanoTech Products,"#137, Ashraya Layout, Vidyaranyapura Post,
+Veersagara - Hesaraghatta Main Road",Bangalore,560097,,,25-Oct-17,4.0,5,,2,4,"Dev Tech Award, Elevate 100 Award and Tata Social Enterprise Challenge Award 2018, Design Impact Award 2018 from Titan and Tata Trust",4,Growth,,,,4,,2.0
+127,Wallter Systems Pvt Ltd,Lifestyle,,Lifestyle > Foldable Furniture ,"#87, 3rd cross, laxmi layout, arekere",Bangalore,560076,1,2,20-Feb-18,3.7,5,10,1,,,1,Bootstrapped,,,,,,1.9
+128,Corover Pvt Ltd,Lifestyle,chatbot,Lifestyle > App > Chatbot > Travel,"DSU Innovation Campus, II Floor, Block 1
+Hosur Rd, Kudlu Gate, Singasandra,",Bangalore,560068,1,28,27-Dec-16,4.8,,28,2,15,"10 Coverage In National & International Media, Best Mobile App (Travel/Social Space) by BMA, USA.One of the Top 5 product companies to represent India at DLD Tel Aviv Tech Festival organized by NASSCOM Product Council. CoRover Connect was launched in Israel by Mr. Avinish Sabharwal, MD Accenture Ventures.Featured in Top 10 Startups in India by Headstart.Featured in Top 50 Startups in India by Conquest, BITS Pilani.Selected in 2020StartUp Accelerator in New York. ",4,Growth,,,,14,,8.4
+129,Focuz AR,AR/VR,Computer vision,CV > AR/VR,"Gopala Krishna Complex,
+45/3, Residency Road, MG Road, Shanthala Nagar,
+Ashok Nagar",Bangalore,560025,1,27,1-Jan-17,4.8,12,57,3,,,4,Growth,,,,10,,9.8
+130,Kalpnik ,AR/VR,Computer vision,CV > AR/VR > 360 Imaging,"Second Floor, RXDX Building
+Plot No. 7G, Opp. Graphite India
+
+
+Whitefield",Bangalore,560048,1,85,22-Jul-16,5.2,14,129,2,1,Media Coverage,1,Seed,0.5,27-May-18,,95,,29.0
+131,Musion 3D Technology,,Computer vision,CV > Hologram,"#12, Service Road
+Domlur Layout
+Next to Samsung Showroom",Bangalore,560071,1,56,29-Oct-14,7.0,3,81,3,,,4,Growth,,,,,,12.9
+132,Euphotic Labs Pvt Ltd,Home Automation,smart city,Home Automation > Smart city > Smart Cooking,"IKP Eden, 16,
+Bhuvanappa Layout,
+Tavarekere Main Rd",Bangalore,560029,1,12,26-Mar-18,3.6,5,28,2,,,2,Paid POC,,,,,,4.3
+133,Farms 2 Fork Technologies Pvt. Ltd.,Agritech,Analytics,Agritech > Water Management > Nutrition Management > CV Analytics,"322,5th Main, Vijaya Bank Colony BTM 4th Phase",Bangalore,560076,1,32,13-Jun-16,5.3,7,62,2,2,Certified by University of Agricultural Sciences and Indian Institute of Horticultural Research (IIHR) which is a premier institute of the Institute of Indian Council of Agriculture Research (ICAR).,2,Paid POC,,,,,,9.2
+134,Noos Technologies Pvt Ltd,Marketing,"B2B/Enterprise, B2B eCommerce","Anti-Counterfeit & Secured Tracking > Computer Vision, Algorithm",,Bangalore,560100,3,18,14-Mar-18,3.6,4,25,2,3,"Recognized by DIPP, Plugin DST , IPFPackaging Innovation award from IPF, GHP (UK). Other awards for innovation from SANOFI Pharma, TiE Bangalore Top 5 Emerging Technology, PLUGIN Demo Day Award. Media coverage in YourStory, Inc42",2,Paid POC,0.01,,0.5,0,0,5.1
+135,Numocity Technologies Pvt Ltd,Smart Cities,Two-wheelers & Smart cities,Smart City > Electric Vehicle,"#1659/27,5th Cross RPC Layout",Bangalore,560104,1,63,14-Dec-18,2.8,13,100,2,1,"Top 5 IOT Startups from TiE
+ https://web.dailyhunt.in/news/india/english/yourstory-epaper-yourstory/iot+day+2019+meet+the+top+5+emerging+iot+startups+of+india-newsid-115357822",4,Seed,0,,2,3,35,16.4
+136,Biodesign Innovation Labs Pvt Ltd,Healthtech,,HealthTech > Respiratory device,"IKP EDEN, 16, Bhuvanappa Layout, Tavarekere Main Rd",Bangalore,560029,,,,121.9,,,,,,,,,,,,,12.2
+137,IMOV Motion Tech Pvt Ltd,Wearable,"ADAS, Embedded, and IOT",Wearable > Assistive Technology,"3023 Cornwall,Prestige Kensingon Gardens HMT Colony main road, Jalahalli",Bangalore,560013,1,46,8-Dec-17,3.9,3,50,3,,,2,Paid POC,,,,,,9.3
+138,Atik Energy Solutions,Cleantech,Cleantech,Cleantech > Analytics > Carbon Footprint,"We Work,  Cinnabar Hills,
+Embassy Golf Links Business Park,
+Challaghatta",Bangalore,560071,1,8,1-Jan-13,8.8,3,14,2,,,2,Paid POC,,,,,,3.3
+139,Finixel Technologies Pvt Ltd,Iot,Enterprise Solutions,IOT > Enterprise Solution > BigData > Analytics,"13A, Kothanur Main Road, JP Nagar, 7th Phase",Bangalore,560078,1,18,11-Jun-13,8.4,6,38,2,,,3,Early Traction,,,,,,6.3
+140,IOT Ready ,Iot,Automation & Services,IOT > Home Autiomation > IIOT,5/1 Richmond Road,Bangalore,560025,3,73,1-Nov-18,3.0,3,73,2,,,3,Early Traction,,,,8,,14.4
+141,Shrama Technologies Pvt Ltd,Iot,Enterprise Solutions,IOT > Enterprise Solution,"591,1st floor, 14th main, 15th cross, sector-4, HSR layout",Bangalore,560102,1,17,1-Jun-19,2.4,2,20,,,,,,,,,,,3.5
+142,UniqoLabel ,Security,Enterprise Solutions,Security > Enterprise Solution > Lables > App > QR code,"#13/37, 4th Floor, Sampurna Chambers, Opp Vijaya Bank, Vasavi Temple Road, VV Puram",Bangalore,560004,1,23,1-Jan-16,5.8,10,59,2,,,3,Early Traction,,,,,,8.3
+143,Linksmart Technologies Pvt Ltd,Security,Enterprise Solutions,Security > Enterprise Solution > Lables > App,"#104, Level 2, Prestige Omega, EPIP zone Whitefield",Bangalore,560066,1,11,20-Dec-10,10.8,10,47,2,,,3,Early Traction,,,,,,6.7
+144,Glider,HR,Enterprise Solution,Enterprise Soltution > HR ,"IBC Knowledge Park, CST-4, 12th Floor, D Block, Bannerghatta Main Rd, ",Bangalore,560029,3,20,1-Jan-16,5.8,44,149,2,,,3,Early Traction,,,,,,16.8
+145,Playlyfe It Solutions Pvt Ltd,Enterprise Solutions,Enterprise Solutions,Enterprise Soltution > HR > Gamification ,"3 rd Floor, #758, 19th Main, Sector 2, HSR Layout",Bangalore,560102,1,14,23-May-14,7.4,4,22,2,,,3,Early Traction,,,,,,4.5
+146,Knolskape Solutions Pvt Ltd,Enterprise Solutions,Enterprise Solutions,Enterprise Solution > HR > Gamification,"1314, 3rd & 4th Floor, Double Road, Indiranagar 2nd Stage",Bangalore,560038,1,32,25-May-09,12.4,124,398,2,13,"KNOLSKAPE is NASSCOM Top 10 Technology Startup
+KNOLSKAPE recognised by Frost & Sullivan
+KNOLSKAPE recognised by Deloitte
+KNOLSKAPE Wins Brandon Hall Gold
+KNOLSKAPE featured in Top 20 Gamification Companies in the World 2015 by Training Industry
+KNOLSKAPE wins Brandon Hall Group Bronze Award
+KNOLSKAPE Wins Gold in Excellence in Leadership Development 2017
+KNOLSKAPE Wins Bronze for Best Results in a Business Program 
+KNOLSKAPE Wins Bronze for Best Program Supporting a Business Change
+KNOLSKAPE Named 2018 Top 20 Gamification Company
+KNOLSKAPE named a Deloitte Technology Fast 500™ Company
+KNOLSKAPE wins Brandon Hall Excellence award for the 4th year 
+KNOLSKAPE Certified as Great Place To Work® for 2018-2019  
+",4,Growth,,,,10,448.8,52.5
+147,Nsmiles India Pvt Ltd,Healthtech,Enterprise Solutions,Enterprise Solution > Employee Wellness,"#E206, Innovation center, IIITB, Electronics City Phase 1",Bangalore,560100,1,16,10-Jul-13,8.3,8,44,2,7,"Tech in asia runner up 2016, sandbox samvidha winner, 100 most impactfull healthcare startup , Media Covergae",3,Early Traction,,,,,140,9.9
+148,HyperVerge,Enterprise Solutions,Fintech,Enterprise Solution > Fintech > Geospatial mapping,"Plot No-16, 2nd Floor, Tavarekere Main Rd, Bhuvanappa Layout,",Bangalore,560029,3,26,30-Dec-13,7.8,38,158,2,,,3,Early Traction,1,17-Aug-15,1,,1376,45.5
+149,ThingTronics Innovations Pvt Ltd,IoT Design,Agritech,IOT > Agritech > Indoor Navigation > GPS ,"3rd cross, Shirdi sai nagar, K Narayanapura main road 
+R.K Hedge Nagar",Bangalore,560077,1,33,21-Sep-16,5.1,13,77,3,5.333333333,Major Media Coverages,3,Early Traction,2,,,,,11.4
+150,Fabrik,AR/VR,Enterprise Solutions,AR/VR > Enterprise Solution,,Bangalore,560034,1,11,1-Jan-18,3.8,8,32,2,,,2,Paid POC,0.25,,,,,4.8
+151,GoSwift,logistics,smart city,Logistics > Courier Services,,Bangalore,560037,1,10,30-Nov-18,2.9,11,46,1,,,1,Early stage,,,,,,5.5
+152,Flinkhub,AI,Computer vision,,"L-165, Sri Gayatri Complex, 
+Sector 6, HSR Layout ",Bangalore,560102,3,9,14-Feb-19,2.7,7,24,2,,,3,Early Traction,,,,4,,4.4
+153,Aibono Smart Farming Pvt Ltd,Agritech,Agritech,Agritech > Fresh Food Platform,"First Floor, G.R. Square (Indiqube),
+Adjacent to Jeep/Fiat Showroom, 
+Amar Jyoti Layout, Koramangala Road (100 Feet Road),
+Domlur,",Bangalore,560071,3,8,19-Nov-13,7.9,19,62,3,1,The Economics Times best Social Enterprise 2017,3,Early Traction,2.5,11-Mar-19,,,2100,50.4
+154,Hansel.io,AI,Analytics,AI > Analytics ,"No.20, 1st Main Road, 1st Block Koramangala Layout",Bangalore,560034,1,37,16-Oct-15,6.0,45,205,2,,,4,Growth,5.4,08-Aug-18,,12,630,36.8
+155,Whatfix,Enterprise Solutions,SaaS,SAAS > Enterprise Solution > Content ,"2nd and 3rd Floor, No. 443, 4th Sector, 17th Cross, HSR Layout",Bangalore,560102,1,42,15-Jun-14,7.3,153,495,2,,,4,Growth,17.8,12-Mar-19,,24,5794.69,171.0
+156,Shield Square (Aquired By Radware),Enterprise Solutions,chatbot,Enterprise Solution > Chatbot > Management > API,"Shree Arcade, #1391/16/1,
+3rd Floor, 19th Main road, 
+HSR Layout, Sector 4",Bangalore,560102,2,89,20-Mar-14,7.6,67,341,3,,,4,Growth,0.35,26-Oct-17,,10,5104.18,142.2
+157,Slang Labs,Enterprise Solutions,chatbot,Enterprise Solution > Chatbot > NLP Sdk,"91springboard, 1st Floor, Gopala Krishna Complex #45/3 Residency Road",Bangalore,560025,1,61,15-Sep-17,4.1,14,105,3,1,Media Coverage,3,Early Traction,,,,4,110.46,18.2
+158,Pratilipi,AI,chatbot,AI > Platfrom > Story Telling/ Writing in Indic Languages,"3rd Floor, No. 627/628, 5th Cross, 15th Main,
+80 Feet Road, Koramangala 4th Block",Bangalore,560034,1,36,12-Mar-15,6.6,62,268,3,,,4,Growth,20.5,06-Jun-19,,Retail,614.34,42.5
+159,Bellatrix Aerospace Pvt Ltd,Aviation,smart city,Aviation > Propulsion System > Rocket & Satellites,"1st floor, Entrepreneurship center
+Society for innovation and development (SID)
+Indian institute of Science",Bangalore,560012,1,8,4-Feb-15,6.7,12,44,3,3,,2,POC,3,21-Jun-19,,,,6.5
+160,Securelyshare Software Pvt Ltd,Enterprise Solutions,SaaS,Enterprise Solution > SAAS > Platform,"No. 1133, First Floor, 
+Anand Embassy, 100 Ft road, 
+HAL 2nd Stage, Indira Nagar,",Bangalore,560038,1,27,5-Jun-13,8.4,32,187,3,5,https://www.securelyshare.com/aboutus.html,3,Early Traction,0.49,01-Jun-09,,,,19.9
+161,Aryabhatta robotics pvt ltd (Wesense),Enterprise Solutions,Analytics,Enterperise Solution > Retail Analytics ,"No 231, 17th 'F' Main, 5th Block, Koramangala",Bangalore,560095,2,35,3-Jul-17,4.3,12,71,3,1.33,"Won Shark Tank Event NIT Rourkela, Media Coverage",2,POC,0.2,We raised close to $200 K from celebrity investors across the globe,Patent Pending / Applied,3,,10.8
+162,ReArk Digital Preservations Pvt. Ltd.,3D Printing,Computer vision,CV > 3D imaging,"161/1, Pearl Naksha,
+1st Main Road, Seshadripuram",Bangalore,560020,1,15,19-Sep-16,5.1,4,27,2,,,2,POC,,,No,,,4.6
+163,Mobiikey Technologies Pvt Ltd,IoT Platform,"Logistics, Transporation, Technology",IOT Platform > Car Sharing Platform,"#51/1, 14th main, Shubh Enclave, Haralur Road
+Off Sarjapur Road, HSR Layout",Bangalore,560102,1,25,1-Sep-17,4.1,7,49,3,,,3,Early Traction,0,,Patent Pending / Applied,,,7.5
+164,Option 3,IoT Platform,Enterprise Solutions,IOT Platform > Automation,"157, 20th Cross, 5th Main
+Sector 7, HSR Layout",Bangalore,560102,1,102,14-Nov-12,8.9,101,494,4,,,4,Growth,4.5,"Jul 12, 2018",No,8,,54.9
+165,ModeliCon InfoTech LLP,Smart Buildings,smart city,Smart City > Simulation of Manufacturing Plants > Pharma,"202, 2nd Floor,
+174, 19th Main,
+HSR Layout, 4th Sector",Bangalore,560102,3,33,21-Feb-17,4.6,12,77,4,,,3,Early Traction,,,,,,10.9
+166,Datakalp,AI,AI,ML > Consultancy > Product outsourcing,"1st floor, Cowork Cafe, #28, opp. Kanua restaurant, Kaikondrahalli",Bangalore,560035,1,17,10-Oct-18,3.0,7,41,3,5.00,"    Awarded ""Promising Startup""      at SES / ELCINA 2019
+
+                            • July 31, 2019
+
+
+
+
+     Won DISC-2
+
+      • May 25, 2019
+
+
+
+
+     Expanding to a 
+     new office
+
+      • May 7, 2019
+
+
+
+
+     Finalists of the Airports 
+     Authority of India and 
+     Defence India Startup
+                        Challenge-2
+
+                               • February 27, 2019",2,POC,,,,,,6.3
+167,Radome Technologies and Services Pvt Ltd,AI Analytics,AI,AI > Analytics > Aersospace & Defence,"No.:259, 4th Floor, 3rd Main, ISRO Layout",Bangalore,560078,1,10,18-May-17,4.4,11,50,4,2.00,we are declared as the winners of Defense India Startup Challenge in association with IDex and DIO(Defense Innovation Organization) of MOD. we have also received the Grant from DIO for Co-creating a product called LogiSmart – AI based SCM and Logistics,2,Paid POC,,,,,,6.5
+168,Gnani Innovations Private Limited,AI,Natural Language Processing,AI > NLP > Indic Languages,"#37/3, 1st Floor MN Krishna Rao Road, Opp Lalbagh West Gate, Basavanagudi",Bangalore,560004,1,37,19-Jul-16,5.2,24,145,4,,,3,Early Traction,,,,,,16.8
+169,Aiaioo Labs,AI,Enterprise Solutions,AI >Enterprise Solution > Text Analytics,"253, 1st Cross, 2nd Block, Banashankari, 3rd Stage, 3rd Phase,",Bangalore,560085,1,20,1-Sep-09,12.1,2,24,3,,,3,Early Traction,,,,,16,6.0
+170,Pochys Ventures Inc (Lrnr),Education,AI,Education > LMS > Self learning Platform,"GOK NASSCOM Startup Warehouse,
+Lower Ground Floor, DD3, Diamond District ISRO Colony, Domlur",Bangalore,560008,1,41,1-Mar-12,9.6,20,98,3,1.666666667,"October 1, 2015
+Lrnr Adaptive Learning starts STEM course pilots at 12 colleges and universities
+
+September 23, 2015
+Lrnr Adaptive Learning Solutions Secures Seed Investment From Publishing Partner Ratna Sagar
+
+March 26, 2015
+Lrnr Adaptive Learning Solutions Announces Partnership with Ratna Sagar
+
+September 30, 2014
+Lrnr Adaptive Learning Solutions Announces Partnership with OpenStax College
+
+July 15, 2014
+Pochys Ventures Announces the Lrnr Adaptive Learning Platform",3,Early Traction,,,,,1400,42.1
+171,Nouveau Labs Pvt Ltd,AI,Enterprise Solutions,,"GINSERV, JSS Campus, Behind Leela Palace, Kodihalli,",Bangalore,560047,1,27,1-Mar-17,4.6,24,119,3,,,3,Early Traction,,,,,,13.8
+172,IntelliPredikt Technologies Pvt. Ltd.,IIOT,Enterprise Solutions,IIOT > Enterprise Solution > AI > Embedded Solutions,"#355, Balaji arcade, 3rd Floor, 5th Main,14Th B Cross, Sector 6, HSR Layout, Sector 6, HSR Layout",Bangalore,560102,1,94,22-May-15,6.4,21,274,4,,,3,Early Traction,,,,,,31.5
+173,Frslabs Research Systems Pvt Ltd (FRS Labs),Fintech,Enterprise Solutions,Fintech > Enterprise Solutiion > Computer Vision > Fraud Detection,"355, 2nd Floor, 5th Main, 14th B Cross Road, Sector 6, HSR Layout",Bangalore,560102,1,22,23-Feb-10,11.6,16,82,4,10,"Winner
+AnthaPrerana
+(TiE Bangalore)
+Winner
+Canada India Tech
+Accelerator
+Finalists
+Top 10
+Wharton Economic
+Forum Mumbai
+Finalists
+Top 50
+InTech50
+iSpirt
+Finalists
+Top 10
+TechInAsia
+Bangalore
+Finalists
+Top 20 India
+Citibank tech for
+integrity 2017
+Finalists
+3rd Place
+Fintegrate
+Mumbai 2017
+Finalists
+Top 10
+Yes Bank Fintech
+Accelerator 2017
+Finalists
+Top 10
+Societe Generale
+Accelerator 2017
+Winner
+FinTech Abu Dhabi
+Challenge 2017",4,Growth,,,2,20,38,14.8
+174,Signzy Technologies Pvt Ltd (Signzy),Fintech,"Agritech, banking",Fintech > Banking > NBFC,"BPL building, 11th KM, Arakere Bannerghatta Rd,",Bangalore,560076,3,19,3-Nov-15,6.0,116,279,4,16,"2016
+Top 30 Global Finalist PnP fintech (May 2016)
+RBI’s award for most Innovative Payment system solution (PSIC 2016) organized by IDRBT (July 2016)
+IBM Fintech runner-up award for innovative fintech company in India (Aug 2016)
+Most popular IBM engage partner (Aug 2016)
+Thomson Reuters innovative fintech company award (Nov 2016)
+
+2017
+Listed in Forbes 30 under 30 India (Feb 2017)
+Runner up in HDFC Life Global digital authentication challenge, ahead of large player Jumio (Mar 2017)
+Top 9 Global Digital Financial Implementations, MAS Singapore, Only Indian Financial Solution (Sep 2017)
+Emerge 50, Nasscom Product Conclave, Special Award in Fintech Category (Nov 2017)
+Top 7, Startup of the year, by Financial Express (Dec 2017)
+
+2018
+Best Innovative Fintech Data Solution Provider at the 8th India Digital Award of IAMAI (Jan 2018)
+TOP 6, Start Ups under 30 competition at the Magnetic Maharashtra : Convergence 2018 Start-up awards (Feb 2018)
+Business Excellence and Innovative Best Practices Academia Award - 2017 by New Delhi Institute of Management (Mar 2018)
+Runner-up in IDRBT Banking Technology Innovation Contest (IBTIC) (Apr 2018)",3,Early Traction,12.6,02-Dec-20,,5,700,47.9
+175,Fyle Technologies Pvt Ltd,Analytics,Enterprise Solutions,Enterprsie Solution > Analytics > Digitalization,"91 Springboard, 1st Floor, Gopala Krishna Complex, 45/3 Residency road,",Bangalore,560095,1,32,16-Feb-16,5.7,69,308,3,,,3,Early Traction,5.9,23-May-19,,9,700,46.3
+176,Stride AI Inc,AI Analytics,"Agritech, banking",AI Analytics > Text Translation,"#1A Block, 1st floor, CIL Layout, Sanjaynagar Main Road",Bangalore,560094,1,28,24-Oct-15,6.0,16,80,4,,,3,Early Traction,0.128,01-Mar-16,,,,10.9
+177,Cloudphysician Healthcare Pvt Ltd,Healthtech,IIOT,Healthtech > IOT> Telemedics,"7, Bellary Road,Ganganagar",Bangalore,560032,1,22,17-Apr-17,4.5,22,110,4,5,Media Recognition,3,Early Traction,,,,9,,13.9
+178,Bitonic Technology Labs Pvt Ltd (Yellow Messenger),AI,Enterprise Solutions,AI > Enterprise Solution > Converstional platform,"No. 19, Katha No. 654 Bommenahali Village, Bidarahalli, Hobli",Bangalore,560049,2,37,22-Jan-16,5.7,78,353,3,,,3,Early Traction Series A,4,12-Jun-19,,41,1000,59.7
+179,Utor Labs Pvt Ltd,AI,Analytics,AI > Analytics,"Ground Floor, 407, West Wing, Amarjyothi Layout, Domlur",Bangalore,560071,2,47,23-Jan-18,3.7,,,3,,,2,POC,,,,,,5.7
+180,3Frames Software labs Private Limited,IIOT,Enterprise Solutions,IIOT > Enterprise Solution ,"#3540 , 2nd Cross,
+13th H Main HAL IInd Stage,
+Indira Nagar,",Bangalore,560008,3,44,9-Jun-10,11.4,26,140,3,,,4,Growth,,,,,2275,63.6
+181,42Gears Mobility Systems Pvt Ltd,IT,Enterprise Solutions,IT > Enterprise Solution,"HSR, Sector -1,",Bangalore,560102,3,35,22-Sep-10,11.1,191,799,4,5,Major Media Mentions,4,Growth,,,,92,7100,226.5
+182,eGestalt Technologies Pvt Ltd(Aegify),Security,SaaS,Security > SAAS,"No.1606, 7th Cross,
+20th Main Road,
+HSR Layout Sector – I",Bangalore,560102,1,33,5-Sep-07,14.1,124,525,4,3,CRN 2013 SC 2014 TiE 2013 Cyber 500,4,Growth,,,,,10670,264.6
+183,AforeCybersec Technology Private Limited,Cyber Security,Enterprise Solutions,Cyber Security > Enterprise Solution,"1st floor, 660/1,100 feet road, Indiranagar,
+Akshaya Building",Bangalore,560038,1,18,29-Mar-17,4.6,17,82,4,,,4,Growth,,,,7,2981,70.4
+184,CustomerXPs (Clari5),Cyber Security,"Agritech, banking",Cyber Security > Banking > Anti Money Laundering,"#113/1B, SRIT,
+ITPL Main Road, Brookefield,",Bangalore,560037,3,72,29-Dec-06,14.8,166,724,5,,,4,Growth,4,11-Jun-15,,,2100,114.5
+185,Dbaux,Cyber Security,Enterprise Solutions,Cyber Security > Enterprise Solution > End Point severs,"Unit-211, 2nd Floor, No 1, Carlton Towers, Old Airport Road, Kodihalli,",Bangalore,560008,1,20,2-Sep-03,18.1,14,72,4,,,4,Growth,,,,11,1400,39.8
+186,ILANTUS Technologies Private Limited,IT,Enterprise Solutions,IT > Enterprise Solution,"Novel Business Park, #57,13th Cross Gajendra Nagar, Baldwin’s College Road",Bangalore,560030,3,59,23-Jun-00,21.3,206,875,4,,,4,Growth,0.261,01-May-12,,84,7096,235.1
+187,InfiSecure Technologies Inc,Cyber Security,Enterprise Solutions,Cyber Security > Enterprise Solution > Fraud Detection,"2984, 2nd Floor, 12th Main Rd, HAL 2nd Stage, Indiranagar",Bangalore,560008,1,10,3-Mar-16,5.6,7,34,4,,,,,0.6,23-Nov-16,,,1400,33.0
+188,Neridio Systems Private Limited,Cyber Security,SaaS,Cyber Security > SaaS > Cloud data protection,"Innovation Centre, International Institute of Information Technology, Bangalore (IIIT-B) 26/C, Hosur Rd, Electronics City Phase 1, Electronics City,",Bangalore,560100,1,24,17-Feb-17,4.7,5,40,4,,,1,Seed,,,,,,6.6
+189,Parablu Inc,Cyber Security,SaaS,Cyber Security > SaaS> Data Protection,"No.62/1, NR Towers, 3rd Floor,
+19th Main, 17th Cross,
+HSR Layout – 4th Sector",Bangalore,560102,1,29,8-Feb-12,9.7,20,105,4,6,"Parablu recognized as an Innovator in the Global Cloud Encryption Market
+Parablu joins Citrix Startup Accelerator Innovators Program
+Parablu named in the League of 10 - NASSCOM Emerge 50
+Parablu joins Kstart, a Kalaari Capital initiative
+Parablu named among Top 20 Best Startups in Enterprise Software
+Parablu named among 20 Most Promising Security Solution Providers
+Parablu Joins Microsoft BizSparkPlus program
+IBM GEP Smart Camp announces Parablu as Regional Winner
+Parablu among the finalist - DSCI Excellence Award",4,Growth,0.502,24-Jun-16,,,3122,76.4
+190,QoS INC,Security,,,"5th-Floor, No 70 Grace Towers, Millers Tank Bund Road, Vasanth Nagar, Bengaluru,",Bangalore,560052,1,22,19-Jun-15,6.3,74,314,4,5,"10th February 2015
+Splunk Revolution Award
+Splunk honoured us for building Check Point Analytics App on Splunk platform.
+
+
+10th May 2014
+Check Point APAC Partner Award
+Check Point awarded us for generating highest business for them in Asia Pacific.
+
+
+17th September 2016
+Check Point Threat Prevention Award
+We received this award for generating maximum business in Check Point Threat Prevention solutions in Asia Pacific.
+
+
+2nd April 2017
+Check Point Cloud Partner Award
+We were honored for generating maximum business in Check Point Cloud solutions in Asia Pacific.
+
+
+4th July 2016
+Check Point 4 Star Partner
+We are one of the highest rated Check Point partners chosen based on our level of commitment towards Check Point.",,,,,,,,30.8
+191,Smile Security & Surveillance Private Limited,Cyber Security,Enterprise Solutions,Cyber Security > Enterprise Solution,"#21/2, Bhattarahlli, Old Madras Road, 14 KM, K.R. Puram",Bangalore,560049,1,44,12-Jan-06,15.8,10,89,4,,,4,Growth,,,,,,13.8
+192,SocView Solutions Private Limited,Cyber Security,Enterprise Solutions,Cyber Security > Enterprise Solution,"BVK Lake Front, Veerannapalya Main Road
+Nagavara",Bangalore,560045,1,39,25-May-16,5.4,7,75,4,,,3,Early Traction,,,,,,10.9
+193,XYSec Labs Private Limited (Appknox),Security,,,"WeWork, Salarpuria Magnificia
+78 Old Madras Road, 13th Floor
+KR Puram",Bangalore,560016,1,15,8-Jan-16,5.8,22,95,4,10,Media Recognitions,4,Growth,0.659,16-Aug-16,,6,785,28.2
+194,XENOPS Technologies Pvt. Ltd. (Moovlee),Smart Cities,,Intelligent urban transport,"Xenops Technologies Pvt Ltd
+Lower Ground Floor, DD3, Diamond District
+Domlur",Bangalore,560008,2,16,10-May-16,5.4,7,40,3,,,3,Early Traction,,,,7,,6.9
+195,Inferigence Quotient,Surveillance,,,"113, Bhuvaneshwari Nagar Main Road, CV Raman Nagar Post,
+
+Email: admin@inferq.com
+
+Website: www.inferq.com",Bangalore,560093,2,30,19-Sep-17,4.1,11,70,4,,,1,Seed,,,,,,9.7
+196,Inferigence Quotient LLP,Health,Pets,"Computer Vision, Machine Learning, Thermal Imaging,","474, 8th Main, NGEF Layout, Sadanand Nagar",Bangalore,560038,3,80,19-Sep-17,4.1,8,150,4,0,NA,2,"Image preprocessing and machine learning models developed, to be matured; app developed",0,,0,2,55,21.6
+197,Videonetics Technology Pvt Ltd,IoT Platform,Computer vision,IOT > Computer Vision > Video Analytics,"5th Floor, 91 Springboard
+175 & 176, Bannerghatta Main Road, Dollars Colony,",Bangalore,560076,1,33,16-Sep-08,13.1,54,245,4,6,"NASSCOM Technology Excellence Award 2019
+IHSMarkit Logo	Ranked Amongst Top 5 VMS Providers in Asia Market
+Fist	Indian OEM of the Year
+Deloitte	Ranked Amongst Fastest Growing Companies in Asia Pacific by Deloitte
+Deloitte	Fastest Growing Technology Enterprise of the Year
+IE20	Global Emerging Indian Enterprise of the Year - 2018",4,Growth,,,,,,26.8
+198,Nvincy Solutions Pvt Ltd,Enterprise Solutions,Enterprise Solutions,Enterprise Solution > Digital Signage,"#211, 1st Floor, 4th A Main, OMBR Layout, Kalyan Nagar Extension",Bangalore,560043,3,37,24-May-17,4.4,9,65,3,,,3,Early Tarction,,,,,,10.1
+199,Smarterhomes Technologies Pvt Ltd,Water Management,Analytics,Water Management > Analytics,"240A, 2nd Floor, 27th Main,
+Sector 2, HSR Layout",Bangalore,560102,1,50,20-Feb-14,7.7,43,214,4,9,Media Coverage,3,Early Tarction,,,,,,25.2
+200,Iot Research Labs Pvt Ltd,logistics,Analytics,Logistics > Fleet Management > Fuel level,"5/1, Penthouse 01, 6th Floor,
+Rich Homes Apt., Richmond Road",Bangalore,560025,1,5,25-Jun-15,6.3,14,57,4,2,Media Coverage,3,Early Tarction,,,,,,7.0
+201,Elvago Technologies Pvt Ltd (CodeMonk),Enterprise Solutions,Enterprise Solutions,Enterprise Solution > No coding Platform,"IKP EDEN, #16, Tavarekere Main Road, Near Kormangala Forum, Suddagunte Palya,",Bangalore,560029,1,9,18-Jun-18,3.3,7,21,4,,,3,Early Tarction,,,,12,,5.2
+202,Nayagaadi Online Marketplace Pvt Ltd,Transportation & Logistics,"Logistics, Transporation, Technology",Transportaion > Online platform for Multibrand rural connect,"STPI-Orchid Techscape Incubation Center,
+Cyber Park, No. 76 & 77, 6th Floor,
+Electronics City Phase-1",Bangalore,560100,1,24,29-Oct-15,6.0,,,3,10.5,"Media Coverage, Elevate 100 winner 2017, IITB, top 20 startups pune",3,Early Tarction,,,,,,4.4
+203,Leap Aeronautics,Aviation,"Logistics, Transporation, Technology",Aviation > Consumer Flight,,Bangalore,560016,,,1-Jan-19,2.8,4,,4,,,1,POC,,,,,,1.1
+204,Astrome Technologies Pvt Ltd,Aerospace,smart city,Aerospace,"nd Floor, Entrepreneurship Centre Building,
+Society for Innovation and Development (SID),
+Indian Institute of Science",Bangalore,560012,2,22,20-May-15,6.4,35,187,4,4.333333333,"Media Coverage National Award  in the ‘Technology Start-ups Category’ (2018).
+
+Astrome has received grant from US-India Science and Technology Endowment Fund (USISTEF) for developing technologies that provide low cost internet to rural and remote areas
+US - India Science and Technology Endowment Fund
+
+In 2016, we won the Most Promising Aerospace and Defence Startup Award given by NASSCOM and IESA for our pathbreaking work in satellite internet technologies
+Most Promising Aerospace and Defense Startup Award by NASSCOM and IESA",3,Early Tarction,,01-Jan-18,,,,19.5
+205,Net Next Solutions Pvt Ltd,AR/VR,Enterprise Solutions,AR/VR > Enterprise Solution > SEO ,Vidyaranyapura,Bangalore,560097,,,1-Jan-13,8.8,,,3,,,3,Early Tarction,,,,17,,3.2
+206,Appriffy Digital IT Hub Pvt Ltd,Enterprise Solutions,HR tech,Enterprise Solution > Hiring,"No-27/14 2nd Floor, 1st Cross Tata Silk Form",Bangalore,560070,1,14,6-Sep-18,3.1,43,174,3,4,"Selected by Govt. Of India and IIM Calcutta Innovation Park Under Smart Fifty Solutions for India.
+Recognized by Govt. Of India and Department of Industrial Policy and Promotion.
+Recognized by Govt. Of Karnataka as one of the Innovative Technical Service Provider.
+Selected as One of the Smart 75 Tech Products Developers which is Organized by Govt. Of India and Goa and in collaboration with Govt. Of Armenia.",3,Early Tarction,,,,,,17.9
+207,DraftSpotting Technologies Pvt Ltd,AI,Enterprise Solutions,AI > Enterprise Solution > Legal Documents,"4th Floor, UrbanVault, 97, 17th Cross Road, Sector 4, HSR Layout",Bangalore,560102,1,19,19-Apr-17,4.5,29,127,3,7.333333333,"Finished Top 3 and won the People's Choice Awar, Selected in Top 3 and first Indian Company to get selected for the Finals of this Competition
+,Global Winner in the Heavyweight Category, 
+Winner of the 'Get in the Ring' challange organised by the SAP Startup Studio
+
+
+Shortlisted for the Agami Prize 2018 for reshaping legal industry, law & justice in India
+
+
+Nominated as the 'Tech Company To Watchout For",3,Early Traction,2.1,22-Feb-19,,7,700,29.4
+208,FloatBot,AI,Enterprise Solutions,AI > Enterprise Solution > Chat Bot,NASSCOM-COE-DS&AI Diamond District,Bangalore,560008,1,14,1-Jan-17,4.8,10,50,4,,,4,Growth,,,,15,,8.4
+209,Someshwara Software Pvt Ltd,Enterprise Solutions,Enterprise Solutions,,"ABAI, Nalapad Brigade Centre, Ground Floor,
+Whitefield",Bangalore,560048,1,16,21-Nov-14,6.9,4,28,3,,,2,POC,,,,,,5.1
+210,Bevywise Networks LLP,IoT Platform,Enterprise Solutions,IoT Platform > Mqtt Broker > Simulator ,"DERBI Foundation,
+2nd Floor, A Block ,
+Dayananda Sagar University Innovation Campus
+Near KudluGate, Hosur Road",Bangalore,560068,1,20,1-Mar-17,4.6,13,96,4,,,4,Growth,,,,23,,13.3
+211,Neunets Technology Pvt Ltd,AI,Enterprise Solutions,AI > Enterprise Solution > Advertsising Platform,"Kudlu Rd, above State Bank of Mysore, AECS Layout - A Block, AECS Layout, Singasandra",Bangalore,560068,1,21,19-Dec-16,4.8,5,33,3,,,2,POC,,,,,,5.8
+212,Buymyev Technology Pvt Ltd,Transportation & Logistics,Two-wheelers & Smart cities,Transportation > EV,Basaveshwarnagar,Bangalore,560079,1,20,1-Jul-18,3.3,3,24,3,,,2,POC,,,,,,4.8
+213,Ameliorate Biotech Pvt Ltd,Biotech,Enterprise Solutions,Biotech,"No.1213,BCCS Layout, Holiday Village Road, Vajarahalli , Kanakpura Road",Bangalore,560062,3,38,20-Oct-15,6.0,2,38,4,1,unconvention19,2,POC,,,,,,8.1
+214,Udjan Energy Pvt Ltd (Olive Energy ),Cleantech,Cleantech,Cleantech > Hydrogen Fuel Storage and Generator,"Venugopal nagar, Nagasandra Post ",Bangalore,560073,,,29-Dec-17,3.8,,,,,,,,,,,,,0.4
+215,Taxshe Services Pvt Ltd,Transportation & Logistics,Two-wheelers & Smart cities,Transportaion > Cab for Ladies,"26, ginserv, ca site no 1,
+behind hotel leela palace
+kodihalli, hal stage iii
+",Bangalore,560008,1,39,13-Jan-15,6.8,4,51,3,,,3,Early Traction,,,,,,9.1
+216,Catbus Infolabs Pvt Ltd(blowhorn),logistics,Enterprise Solutions,Logistics > Enterprise solution > Delivery,"3rd Floor, Enzyme Tech Park, Koramangala Industrial Layout,",Bangalore,560095,1,29,20-May-14,7.4,194,797,3,,,4,Growth,8.8,17-Sep-19,,,2633,127.3
+217,AgilizTech Software Services,IT,Enterprise Solutions,IT > Enterprise Solution,"No. 07/3, Second Floor, 18th Main Road,
+Jayanagar 9th Block",Bangalore,560041,1,17,10-Jun-15,6.4,48,205,3,5,agiliztech.com/awards-recognitions/,3,Early Traction,,,,16,,22.7
+218,Aguai Solutions,IT,Enterprise Solutions,IT > Enterprise Solution ,,Bangalore,560103,1,44,25-Feb-13,8.6,6,60,4,4,"Media Coverage
+ImageImage",3,Early Traction,,,,6,,11.5
+219,Airaavat Technologies Private Limited,IT,Enterprise Solutions,IT > Enterprise Solution > Consultancy,"# 5, Sri Raja Rajeswari Layout
+Behind DRDO Phase 2",Bangalore,560016,1,97,23-Jul-12,9.2,6,109,3,,,3,Early Traction,,,,,,19.3
+220,Akasa Labs,IT,Enterprise Solutions,,"2040, 17th main,1st cross, HAL 2nd Stage,, Indiranagar",Bangalore,560008,1,11,30-Oct-14,7.0,5,27,4,,,3,Early Traction,,,,,,4.8
+221,Altigreen Propulsion Labs,Automotive,Two-wheelers & Smart cities,Automotive > Electric Vehicles ,", B-74 5th Cross, Dyavasandra Industrial Estate, Whitefield Road, Mahadevpura",Bangalore,560048,1,64,8-Feb-13,8.7,24,152,4,7,"Altigreen was selected in the first cohort of the Rocket Space Mobility Tech, 
+iotnext
+IoTNext Awards, jointly organised by IESA & TiE Bangalore, chose Altigreen as one of the most promising startups in Automotive domain. Altigreen’s kit was recognized as a unique and innovative product in the Electronics and Semiconductor Industry.
+
+
+
+Elecrama Startup Award: The biggest showcase of the world of electricity, ELECRAMA was organized in March 2018. Altigreen won the award while competing with a prestigious lineup of startups in power electronics, renewables, electric transportation, energy storage and automation.
+
+Most-significant-innovation
+Europe’s largest conference on printed electronics, IDTechEx 2016, awarded Altigreen with the Most Significant Innovation in Electric Vehicles in Berlin, Germany, judged by an independent panel of experts from the automobile industry.
+
+
+MoveHack 2018: 7,500 individuals and 3,000 teams globally had registered for Govt. of India – NITI Aayog’s global mobility hackathon, MoveHack 2018. Altigreen was announced the Top 10 “Solve It” winner under the theme of multimodal commuter and freight mobility in cities.
+
+Media Coverage",3,Early Traction,2,18-Oct-17,,,200,25.0
+222,LYNK AmbuPod,Healthtech,smart city,HealthTech > Hospital On Wheels,"T1-1401, GM Infinite Daffodils,
+
+Mallasandra, Hesaraghatta Main Road",Bangalore,560057,1,49,20-Feb-17,4.7,2,49,4,,,3,Early Traction,,,,,,9.7
+223,Ampere Vehicles,Automotive,Two-wheelers & Smart cities,Automotive > Electric Vehicles ,"Survey No.19/3, 4th Floor, Bikasipura Main Road, JC Industrial Layout, Off Kanakapura Road",Bangalore,560062,1,15,2-Jun-08,13.4,73,303,3,,,4,Growth,2,08-Jul-15,,,200,34.1
+224,Anak age,IT,Enterprise Solutions,IT > Enterprise Solution ,"#17, BTM 1st Stage
+Ring Road",Bangalore,560029,2,60,19-Aug-13,8.2,13,100,3,,,3,Early Traction,,,,,,15.5
+225,Analytics Valley,Blockchain,Enterprise Solutions,Blockchain > Enterprise Solution > Big Data,"#202, Vandana, Brookefield,
+Kundalahalli",Bangalore,560037,1,38,18-Mar-15,6.6,14,182,4,,,3,Early Traction,,,,,,18.9
+226,Anvaya Analytics,IT,Enterprise Solutions,IT > Enterprise Solution > Data Analytics,"57/1, Devarabisanahalli Main Road,
+Devarabisanahalli,",Bangalore,560103,1,13,19-Mar-15,6.6,20,89,3,,,3,Early Traction,,01-Jan-19,,,,10.3
+227,AppiVa Software,IT,Enterprise Solutions,IT > Enterprise Solution > Sales Automation,"GOK, NASSCOM Startup Warehouse, Lower Ground Floor, DD3, Diamond District ISRO, Colony, Domlur,",Bangalore,560008,1,23,28-Oct-16,5.0,7,47,3,,,1,Seed,0.07,28-Oct-16,,,,7.1
+228,Artoo,Fintech,Enterprise Solutions,Fintech > Enterprise Solution > MSME,"3rd Floor, 275/B,
+37th B Cross, 28th Main,
+Jayanagar 9th Block,",Bangalore,560069,1,24,18-Aug-10,11.2,26,120,4,,,3,Early Traction,0.58,24-Mar-15,,,,14.6
+229,AskSid.ai,AI,Enterprise Solutions,AI > Enterprise Solution > Converstional AI,"The Presidency, St. Marks Road",Bangalore,560001,1,43,15-Dec-16,4.8,12,83,4,,,3,Early Traction,,,,,,12.2
+230,Atoll Sloutions,IoT Design,Enterprise Solutions,IoT Design > Enterprise Solution,"#229, 2nd Floor,  2A Main, 5th Cross,
+New Thippasandra, HAL 3rd Stage",Bangalore,560075,1,29,21-Jul-14,7.2,19,101,4,5,https://www.atollsolutions.com/news,3,Early Traction,,,,10,,14.1
+231,Avench systems,IT,Enterprise Solutions,,"Plot No. 10A, KIADB Industrial area, Electronic City Phase 2",Bangalore,560100,1,71,17-Jul-15,6.3,62,303,4,1,Avench Systems received the award for one of the best two startup companies in STPI pavillion at BangaloreITEbiz 2015 from Dr. Krishnaswamy Kasturirangan and Kris Gopalakrishnan.,3,Early Traction,,01-Jan-19,,9,,35.0
+232,Avohi,IT,Enterprise Solutions,IT > Enterprise Solution > Blockchain,"Venus Buildings, 3rd floor,
+Kalyana Mantapa road,
+Jakkasandra Block,
+Koramangala",Bangalore,560034,1,21,1-Jan-15,6.8,31,141,4,,,3,Early Traction,,,,15,,17.1
+233,Azureiken Technologies Pvt Ltd,AI Analytics,Enterprise Solutions,Enterprise Solution > AI > Data Analytics,"135/3, Regus RMZ Infinity Level 1, Tower D, Municipal No. 3, Swami Vivekananda Rd",Bangalore,560016,,,8-Mar-12,9.6,,,,,,,,,,,,,1.0
+234,Belazy,Wearable,"ADAS, Embedded, and IOT",Wearable > IoT,"Novel Tech Park, Kudlu Gate, Garvebhavi Palya",Bangalore,560068,3,11,19-May-17,4.4,10,43,4,5,"Winner, Elevate 2018, Govt of Karnataka
+-Winner, Alibaba Cloud Challenge 2018(Bangalore City)
+-3rd Winner, LES APAC Business Plan Competition for IP based startups
+-Novel Startup Challenge 2018
+-Best Hardware Startup at Forge, Coimbatore",3,Early Traction,,,0.5,,,6.6
+235,Evobi Automations Pvt Ltd (bibox),Iot,"ADAS, Embedded, and IOT",IoT > Education,"29, Beratena Agrahara,
+Next to Play Factory,
+Hosur Road",Bangalore,560100,,,18-Apr-12,9.5,83,,,,,4,Growth ,0.53,17-Nov-15,,,321.89,13.7
+236,Bio-man,Cleantech,smart city,CleanTech > Waste Management,"UAS Layout, Sanjaynagar",Bangalore,560094,1,18,21-Oct-16,5.0,1,18,3,,,2,POC,,,,,,4.2
+237,Birth Venue,Blockchain,Enterprise Solutions,BlockChain > IT > Enterprise Solutions > Consultacy,"Numa Bengaluru, 46/1, Church St, Shanthala Nagar, Ashok Nagar, Cobalt Building",Bangalore,560001,3,8,12-Sep-18,3.1,7,32,3,5,https://birthvenue.in/,3,Early traction,,Boot Strapped,,10,,6.0
+238,Mobisy Technologies Pvt. Ltd. (Bizom),Retail,Enterprise Solutions,Retail > Enterprise Solution ,"Sri Arunachaleshwara Building, Bellandur Main Rd, next to Sterling Suites, Adarsh Palm Retreat, Bellandur",Bangalore,560103,1,41,4-Feb-08,13.7,189,789,4,,,4,Growth,4.2,21-May-18,,500,2100,167.2
+239,BlueChips,IT,Enterprise Solutions,,"# 20-21, Pattalamma Layout,
+Hosur Main Road, Singasandra,",Bangalore,560068,,,30-Oct-85,36.0,,,,,,,,,,,,,3.6
+240,Poncho Hospitality Pvt. Ltd (Box-It),logistics,Enterprise Solutions,Logistics > Food App ,"117, 27th Main Rd,
+Sector 2, HSR Layout,",Bangalore,560102,3,29,30-Jun-12,9.3,497,2009,3,,,4,Growth,34.9,12-Dec-19,,Retail,8970,363.0
+241,Bridgei2i Analytics Solutions (Surveyi2i),Analytics,Enterprise Solutions,Analytics > Enterprise Solution,"Umiya Business Bay, Tower 2, 2nd Floor, Cessna Business Park, Kadubeesanahalli, Outer Ring Road",Bangalore,560103,1,62,13-May-11,10.4,515,2110,3,,,4,Growth,,,,,11497,421.7
+242,CardioTrack,Healthtech,AI,Healthtech > AI > Cardio Device,"NASSCOM CoE IoT
+Lower Ground Floor, Diamond District,
+Old Airport Road, Domlur,",Bangalore,560008,2,40,14-Feb-14,7.7,21,116,4,,,3,Early Traction,1,09-Mar-20,,16,,16.9
+243,Cartisan,Automotive,Enterprise Solutions,Automotive > car servicing app,632/18-2 10th B Main Jayanagar,Bangalore,560011,3,20,1-Apr-14,7.5,20,96,3,,,3,Early Traction,,30-Jul-15,,,700,25.7
+244,Hansa Customer Equity Pvt. Ltd.,Retail,Analytics,Retail > Analytics> Customer enagement,"Ground Floor
+Indiqube Sigma. Site No 3/B
+3rd Block, Koramangala",Bangalore,560034,1,50,27-Feb-08,13.6,310,1590,3,3.333333333,https://www.hansacequity.com/news-knowledge/cequity-in-media/,4,Growth,3.9,18-Jun-15,,,7558,291.9
+245,Convergytics,IT,Enterprise Solutions,IT > Enterprise Solution > CRM > BI,"5/1, Gulmohar Enclave,
+Opp. Sankara Eye Hospital,
+Marathahalli",Bangalore,560037,1,59,13-May-13,8.4,84,383,4,2,https://convergytics.net/,4,Growth,,,,,181.8,44.1
+246,Cropin Technologies,Agritech,"ADAS, Embedded, and IOT",Agritech > IoT,"#1021, 3rd Floor, 16th Main, BTM Layout 1st Stage",Bangalore,560029,1,14,26-Aug-10,11.1,181,734,4,,,4,Growth,13.5,19-Nov-18,,,610,81.0
+247,DOERS - Online Vehicle Assistance,Transportation & Logistics,Two-wheelers & Smart cities,Transportaion > Two Wheelers > Repairing service,"945, 1ST FLOOR, 5TH MAIN, 21ST CROSS, SECTOR 7, HSR LAYOUT",Bangalore,560102,,,20-Dec-16,4.8,,,3,1.666666667,Media Coverage,3,Early Traction,,,,,,1.2
+248,Edge Tensor,AI,Enterprise Solutions,AI > Enterprise Solution ,"2nd floor, Innova Pearl, 17, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, ",Bangalore,560095,1,33,26-Mar-18,3.6,19,101,4,,,3,Early Traction,,04-Feb-19,,,,12.8
+249,Eko Informatics Solution,IT,Enterprise Solutions,IT > Enterprise Solutions > Data analytics,"27/6, Union Street Cross, Off Cubbon Road",Bangalore,560001,1,19,29-Apr-10,11.5,5,35,4,,,4,Growth,,,,19,2182,52.3
+250,GingerMind Technologies Pvt Ltd,AI,AI,AI > AR/VR,"#445 2nd Floor JKN Towers 16th Cross, 5th Main Rd,
+Sector 6, HSR Layout,",Bangalore,560095,1,22,20-Aug-14,7.2,10,54,4,12,,3,Early Traction,,,,,,9.0
+251,faast Help,IT,Enterprise Solutions,,,Bangalore,560001,3,7,26-Mar-16,5.6,2,14,4,,,3,Early Traction,,,,,,3.3
+252,fasal,IoT Platform,Agritech,IoT > Agritech,"No.1678, 23rd Cross
+27th Main Sector 1, HSR Layout",Bangalore,560102,1,13,11-Jan-18,3.8,26,61,4,1.666666667,Media Coverage,3,Early Traction,1.8,30-Oct-19,,,700,22.8
+253,FieldEZ,Transportation & Logistics,Enterprise Solutions,Logistics > Enterprise Solution,"#8/2, Novel Office Central, 3rd Floor, Ulsoor Road, Off MG Road",Bangalore,560001,1,26,15-Nov-11,9.9,27,130,4,,,4,Growth,,,,16,776.8,32.6
+254,Autozo Technologies Pvt Ltd(FirstU),Automotive,Enterprise Solutions,Automotive > Maintainence,"102, Eden Park, 20 Vittal Mallya Road",Bangalore,560001,1,20,28-Jun-16,5.3,13,64,3,,,3,Early Traction,,26-Nov-19,,,,8.6
+255,Shubh Mani Solutions Private Limited,Transportation & Logistics,Enterprise Solutions,Transportation > Travel,"604, ETA, The Gardens, Tank Bund Road, Magadi Road",Bangalore,560023,1,10,24-Nov-15,5.9,,,,,,4,Growth,,,,,,2.1
+256,Get Active,Healthtech,Enterprise Solutions,HealthTech > Enterprise Solution,"600, 2nd Cross Rd, Koramangala 3 Block",Bangalore,560034,1,92,19-Jun-09,12.3,17,148,3,,,4,Growth,,,,,,22.8
+257,Gloinnt Solutions,IT,Enterprise Solutions,,"No. 49 & 50, 1st Floor, 3rd Cross,
+Meganahalli, Kalyan Nagar,",Bangalore,560043,1,24,13-Apr-16,5.5,75,320,3,,,3,Early Traction,,,,,,31.3
+258,Agstack Technologies Pvt. Ltd,IT,Enterprise Solutions,,"#51, 5th Floor, Leela Palace Road, Kodihalli,",Bangalore,560008,3,29,1-May-16,5.5,55,237,4,,,4,Growth,6,06-Aug-19,,,,25.5
+259,Havstruck Solutions,Transportation & Logistics,smart city,Transportaion > Smart City,"104 (First floor), East Park Road, 8th Cross Malleshwaram",Bangalore,560003,1,29,10-May-16,5.4,5,41,4,,,3,Early Traction,,,,,,7.4
+260,Headway.ai,HR,AI,HR > AI based Platform for Hiring,Indiranagar Near Flyover,Bangalore,560008,1,16,13-Oct-16,5.0,8,44,4,,,3,Early Traction,,,,,,6.5
+261,Health5C Wellness Solutions Private Limited,Healthtech,smart city,Healthtech > Smart city > Healh screening app,"4/1, Patel Rama Reddy Road.
+KR Colony, Domlur",Bangalore,560071,1,141,22-Dec-11,9.8,26,217,4,,,3,Early Traction,,,,,310.1,39.1
+262,HealthMacro Technologies,Healthtech,SaaS,Healthtech > SAAS,"#147, 36th A Cross,
+7th Main, 5th Block, Jayanagar,",Bangalore,560041,1,20,29-Oct-12,9.0,6,44,3,4,http://healthmacro.com/awards/,3,Early Traction,,,,27,,10.0
+263,Highir Technologies,Transportation & Logistics,smart city,Transportaion > Smart city > Trip planning,"36/1, Arekempanahalli 1st Block Jayanagar",Bangalore,560027,1,20,10-Oct-16,5.0,,,4,,,3,Early Traction,,,,,,3.3
+264,Hopon,Transportation & Logistics,Enterprise Solutions,Transportaion > Enterprise Solution > Employee Travel,"No 255, 1st Floor, 5th Main, 36th Cross, 4th Block,
+Jayanagar",Bangalore,560011,1,40,9-Oct-13,8.0,20,104,3,,,2,Paid Poc,0.765,15-Jul-16,,3,,14.4
+265,Hotify,IT,Enterprise Solutions,,Whitefield,Bangalore,560048,3,96,14-Jan-15,6.8,19,156,4,,,3,Early Traction,0.15,28-Dec-15,,,210,27.7
+266,Ifuture Robotics,Robotics,Industry Automation,Robotics > Industry Automation,"221 Outer Ring Road, Banashankri 3rd Stage, ",Bangalore,560085,1,12,1-Jun-16,5.4,14,64,4,1.333333333,http://ifuturerobotics.com/blog.html,3,Early Traction,0.396,17-Jan-17,6,,1400,36.7
+267,Immidart Technologies,IT,Enterprise Solutions,IT > Enterprise Solution,"Ferns Icon, Ground Floor,
+Marathahalli Outer Ring Road,
+Doddenakundi",Bangalore,560037,1,54,2-Jan-15,6.8,36,186,3,,,3,Early Traction,,,,,700,36.3
+268,Impact Analytics,Retail,Analytics,Retail > Analytics,"6th Floor, Global Technology Park, Block C, Outer Ring Rd, Bellandur,",Bangalore,560103,3,84,1-Jan-15,6.8,217,928,4,,,3,Early Traction,0.75,31-Oct-16,,,3568,161.6
+269,Inito,Healthtech,"ADAS, Embedded, and IOT",Healthtech > Fertility,"1st Floor, #285, 11th Main, Koramangala 4th Block,",Bangalore,560034,3,21,26-Jun-12,9.3,31,137,4,3,Media Coverage,3,Early Traction,2,18-Mar-19,,,,16.1
+270,Scientist technologies,Smart city,,,"9th Fl, Prestige Towers, Residency Road",Bangalore,560025,1,9,10-Jun-16,5.4,4,15,4,2,,2,POC,,,,1,40,4.5
+271,Impel Labs (Recotap),AI,Enterprise Solutions,AI > Enterprise solution > Marketting,"Green Bubbles, Hsr Layout,
+Sector 6",Bangalore,560102,1,35,1-Jan-18,3.8,7,55,4,,,2,POC,0.15,01-Jan-18,,,,8.9
+272,Bewgle,AI,Enterprise Solutions,AI > Enterprise Solution > Analytics,,Bangalore,560066,2,43,6-Dec-18,2.9,12,83,3,,,2,POC,,,,,,11.9
+273,Clarisights,AI,Enterprise Solutions,AI > Enterprise Solution > BI,"211, PRESTIGE CENTER POINT CUNNINGHAM ROAD",Bangalore,560052,1,43,1-Oct-17,4.0,38,183,4,,,3,Early Traction,2.3,01-Dec-18,,,,21.2
+274,Think Crazy,Smart Cities,,,"Prerna Towers, 563/1 Ranka colony, Bilekahalli, off BAnerghatta Rd",Bangalore,560076,,,,121.9,,,,,,,,,,,,,12.2
+275,fingurus,Fintech,,,"167 KBH colony, 17th C Main Rd, 5th Block, Koramangala",Bangalore,560095,,,,121.9,,,,,,,,,,,,,12.2
+276,VSM Software,Healthtech,Pharma,,"8, 1st Phase, 2nd Cross, 2nd Stage, High Tension Line Park Road |Chandra Lay out",Bangalore,560040,,,,121.9,,,,,,,,,,,,,12.2
+277,Pixxel,Space,,Satellite Earth Imaging and Analytics,"Workbench Projects, Gupta Layout, Halasuru",Bangalore,560008,,,,121.9,,,,,,2,Prototype,,,,,,12.4
+278,"Foradian Technologies (Fedena)
+",Agritech,Enterprise Solutions,School / University management System,"#2569/665, J K Landmark,
+27th Main Rd, Sector 1,
+HSR Layout,",Bangalore,560102,,,29-Jan-09,12.7,61,,,,,4,Growth,,,,,210,10.1
+279,Finnant Designs Pvt Ltd,Iot,"ADAS, Embedded, and IOT",IoT > Liquor Vending Machine,"7th Block, JP nagar 9th phase,",Bangalore,560062,1,25,17-Aug-16,5.2,8,53,4,,,2,Paid POC,,,,,,8.0
+280,Avaamo,AI,,Conversational AI,81/37 Lavelle Road,Bangalore,560001,,,25-Jun-14,7.3,,,,,,,,23.5,,,,,3.1
+281,Bioen,Smart city,Solid waste management,,"20, 2nd cross, 2nd main, RMV 2nd stage, Nagashettyhalli
+",Bangalore,560094,,,,121.9,,,,1,Elevate100,,,,,,,,12.3
+282,CongnitifAI,IT,Enterprise Tech,AI > CV > NLP,"909 lavelle, 9/1 lavelle road,
+Bengaluru, Karnataka - 560001",Bangalore,560001,1,8,1-Dec-16,4.9,20,,4,,,1,Seed,,,,,,3.3
+283,Anscer Robotics,Robotics,EnterpriseTech,Robotics > UGVs > Warehouse,"#16, 2nd floor, IKP EDEN, Bhuvanappa Layout, Tavarekere Main Road, Bengaluru -560029",Bangalore,560029,1,3,10-Jul-20,1.3,8,,3,1,hackthecrisis winner,2,POC,,,,,,1.6
+284,Trithi Robotics,Robotics,Drones,IOT > Drones > Agritech,"TRITHI Robotics Pvt Ltd, 91springboard, Gopalkrishna Complex, Residency Road, Bengaluru",Bangalore,560076,1,13,06-Oct-17,4.0,10,,4,6,"A. DIPP-Govt. Of India – Certified.
+B. Startup India Recognised.
+C. Startup Karnataka Recognised.
+D. Winner of Agriculture Grand Challenge 2018 – Ministry of Agriculture, GOI.
+E. Winner of Atal Innovation Mission 2018 – Niti Aayog GOI.
+F. Featured on National & International Media.",3,Early Traction,,,,2,,3.8
+285,ifuture robotics,Robotics,Automation,Robotics > CV > AI," 221 Outer Ring Road, Banashankri 3rd Stage, Bangalore 560085
+INDIA",Bangalore,560085,1,13,1-Jun-16,5.4,11,,4,5,"QDIC, Emrge50, QPrize, SAP startup social, Zurich Kickstart 2018",3,Early Traction,,,,,,3.7
+286,VST Mobility Solutions,IIOT,Mobility,Vehicle Tracking,"82/3, Shop No.7, 1st Floor,
+KTR Complex, Near Ayyappa Temple,
+Madiwala, Bangalore, Karnataka  ",Bangalore,560068,1,6,7-Aug-15,6.2,40,,3,,,3,Early Traction,,,,,,4.7
+287,sigsenz,AI,"ADAS, Embedded, and IOT",ADAS > CV > AI,"#1292, 32F Cross, 4th T Block, Jayanagar, Bengaluru - 560041",Bangalore,560041,1,38,29-Aug-18,3.1,15,,,,,2,POC,,,,,,5.4
+288,Snehix,EdTech,"E-ink tablet, Classroom Software",Electronics,"Kasavanahalli Main Road, Bengaluru, Karnataka 560035, IN",Bangalore,560035,1,16,2-Jan-20,1.8,6,,3,2,"Elevate 2020, IoT Matrix 2020",2,POC,,,,,,2.9
+289,Steradian Semiconductors,Semiconductors,mmWave Radar ,Semiconductors,"Steradian Semiconductors Pvt. Ltd.
+Unit 216, Brigade Arcade,
+Brigade Metropolis,
+Garudacharpalya, Mahadevapura,
+Bangalore INDIA 560048",Bangalore,560048,3,16,22-Jan-16,5.7,25,,4,1,IoT Matrix 2020,4,Growth,,,,,,5.0
+290,Icosys Technologies,IoT,Smart Home and Automation,IoT,"No. 130 (Old No. 230/6-A), Bull Temple Road, Basavanagudi, Bangalore, Karnataka 560018",Bangalore,560018,1,7.3,22-Feb-18,3.6,20,,3,1,IoT Matrix 2020,2,POC,,,,,,3.1
+291,Active Intelligence,Fintech - Banking,Conversational AI,AI,"5th Floor, Navigator Building, ITPL, Pattandur Agrahara, Whitefield, , Bengaluru, Karnataka 560066, IN",Bangalore,560066,1,25,16-Feb-16,5.7,91,,3,,,4,Growth,14.8,14-Sep-20,,12,,12.9
+292,AppAchhi,AI,Automatic Mobile App Testing,Machine Learning,"South End Road, Jaya Nagar 1st Block, #40, 3rd Floor, Sri Lakshminarayana Mansion, Bengaluru, Karnataka 560004",Bangalore,560004,3,18.8,6-May-15,6.4,18,,3,,,1,Seed,0.25,,,,,4.4
+293,Aryabhatta robotics,Surveillance,AI-based face recognition Software,Computer Vision,"NASSCOM 10,000 Startups Warehouse
+Lower Ground Floor, Diamond District
+Old Airport Raod, Kodihalli,
+Old Airport Rd, ISRO Colony,
+Domlur, Bengaluru, Karnataka 560008 ",Bangalore,560008,3,16,3-Jul-17,4.3,18,,4,,,1,Seed,0.168,01-Jan-18,,7,,4.7
+294,AShield Technologies,Cybersecurity,Cyber Security,"Spatial Cryptography, AI-ML","26/1, 18th Main, 38th Cross, Jayanagar, 4th T Block, Bangalore, 560041, India ",Bangalore,560041,3,13,18-Jun-18,3.3,24,,3,6,,1,Seed,,,,,,4.3
+295,AskSid.ai,Retailtech,,Conversational AI,"The Presidency, St. Marks Road, Bangalore, Karnataka 560001, IN",Bangalore,560001,3,21,15-Dec-16,4.8,17,,3,,,1,Seed,0.239,13-Dec-17,,3,,4.7
+296,Augtual Reality Labs,Retailtech,industry 4.0,XR (Extended Reality),"No.482, 8th Main, 11th Cross, 2nd Phase Girinagar, Bangalore",Bangalore,560085,3,11,3-Jul-18,3.3,15,,4,,,1,Bootstarpped,,01-May-07,,7,,3.9
+297,Bitonic Technology Labs,AI,Chatbot,NLP,"B-9, 5th Floor Brigade Summit , ITPL Main Rd, Brigade Metropolis, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048",Bangalore,560048,2,20,22-Jan-16,5.7,478,,4,,,4,Growth,24.1,17-Apr-20,,500,,89.4
+298,Clootrack Software Labs,AI,Trend Analysis,AI,"Lets Start Coworking Space, JP Nagar , Bangalore, Karnataka 560078, IN",Bangalore,560078,1,15,17-Apr-17,4.5,34,,3,,,1,Seed,0.655,29-Jan-19,,12,,6.1
+299,Coeo Labs,HealthTech,,AI,"#4, Aanand Tower, Bangalore, Karnataka 560025, IN",Bangalore,560025,1,9,1-Oct-14,7.0,4,,4,,,1,Grant,0.657,14-Feb-17,,,15.9,2.8
+300,GoDhiyo Solutions,AI,Chatbot for vernacular conversation,NLP,"#3516, 2nd Main Rd, Girinagar 4th Phase, Hosakerehalli Layout, Banashankari, Bengaluru, Karnataka 560085",Bangalore,560085,3,20,2-Jul-18,3.3,13,,4,,,1,Grant,,,,,,3.9
+301,Gordian Technologies,Mobility,IoT enabled devices for secure hyperlocal deliveries,IOT,"#4, 14th Cross Rd, Malagala, Krishnananda Nagar, Naagarabhaavi, Bengaluru, Karnataka 560091",Bangalore,560091,3,5,24-Jan-19,2.7,8,,4,,,,,,,,,,1.9
+302,Graphene Services,HealthTech,,AI,"87/20, 9th Main Road, 9th Cross Road, Sadashivanagar,
+Aramane Nagar, Bangalore,
+Karnataka 560080, India",Bangalore,560080,3,22,11-Jan-18,3.8,14,,3,,,,,,,,15,,5.6
+303,Horus Intellisys,Automotive,ADAS,"AI, Computer Vision","#21, Sri Sai Krupa, 2nd Floor,
+16th Cross, Sampige Road
+Malleswaram, Bangalore-560003
+Karnataka,India",Bangalore,560003,1,35,21-Jul-16,5.2,5,,4,,,,,,,,,,4.8
+304,Infilect Technologies,Retailtech,Enterprise Solutions,"AI, Computer Vision","#12056, Sobha Elite Apt, Nagasandra, 8th Mile, Tumkur Road, Bangalore – 560073",Bangalore,560073,3,11,29-Jun-15,6.3,31,,4,,,,,,,,,,4.5
+305,Inito (Samplytics Technologies),HealthTech,Infertility,"AI, Computer Vision","Samplytics Technologies Private Limited
+1st Floor, #285, 11th Main, Koramangala 4th Block, Bengaluru, 560034, IN",Bangalore,560034,3,8,1-Jul-15,6.3,41,,4,,,1,Seed,1.8,20-Mar-19,,6,12.86,6.0
+306,Mimyk,HealthTech,Medical devices,"HardTech, AI, AR/VR.","First Floor, Entrepreneurship Centre, Indian Institute of Science, Bangalore-560012",Bangalore,560012,3,5,8-Aug-17,4.2,16,,4,,,1,Angel,0.5,20-Mar-20,,,4.73,2.9
+307,Neridio Systems,AI,Cyber Security,AI,"Innovation Centre, International Institute of Information Technology, Bangalore (IIIT-B) 26/C, Hosur Rd, Electronics City Phase 1, Electronics City, Bengaluru, Karnataka 560100",Bangalore,560100,1,25,17-Feb-17,4.7,4,,3,,,,,,,,14,,5.0
+308,nTalents (Ehunch Research Labs),AI,HR-Tech,AI,"NSRCEL, Indian Institute of Management, Bangalore
+Bannerghatta Road,
+Bengaluru, Karnataka 560076",Bangalore,560076,1,13,27-Nov-17,3.9,8,,3,,,,,,,,,,2.6
+309,QuNu Labs,Cybersecurity,Cyber Security,Quantum Computing,"Centenary Building, 2nd Floor, East Wing, Mahatma Gandhi Rd, Bengaluru, Karnataka 560025",Bangalore,560025,2,35,21-Sep-16,5.1,40,,5,,,4,Growth,2.07,06-Jul-19,,,,8.1
+310,Rayd8,HealthTech,Diabetic eyecare,"AI, Computer Vision","#811, 10th A Main, Suite #508 1st Floor, Indiranagar Bangalore KA 560038 IN",Bangalore,560038,2,6,18-Apr-18,3.5,4,,4,,,,,,,,,,1.8
+311,S & I,Aviation,,Machine Learning,"No.301, Block A, Raghuram Residency, 30 Msr Road, Gokula Bangalore KA 560054 ",Bangalore,560054,3,15,20-Dec-06,14.8,15,,4,,,,,,,,,,4.6
+312,SecurelyShare,Cybersecurity,Cyber Security,Machine Learning,"No. 1133, First Floor,
+Anand Embassy, 100 Ft road,
+HAL 2nd Stage, Indira Nagar,
+Bengaluru – 560038 ",Bangalore,560038,2,17,5-Jun-13,8.4,33,,4,,,,,,,,,,5.4
+313,Senseforth AI Research,Fintech,Conversational AI,NLP,"218 4th floor, 9th Main Sector 6,
+HSR Layout Bengaluru 560102",Bangalore,560102,3,22.5,27-Mar-17,4.6,69,,4,,,4,Growth,0.45,02-Jun-17,,38,,12.4
+314,Simplify360,Enterprise Tech,Business Intelligence,"Deep Learning, NLP","5th & 6th floor, Trifecta Adatto, 21, ITPL Main Rd, Mahadevapura, Bengaluru, Karnataka 560048",Bangalore,560048,1,17,10-Feb-09,12.7,79,,4,,,1,Bootstrapped,,,,6,,9.7
+315,Sociograph Solutions,Retailtech,,Empathetic AI technology,"DaveAI, 677, 1st Floor, 27th Main, 13th Cross, HSR Layout, Sector 1, Bangalore-560102, Karnataka, India",Bangalore,560102,1,12,22-Sep-16,5.1,23,,4,,,4,Growth,,,,27,,6.9
+316,Stylumia Intelligence technology,"RetailTech, FashionTech","Demand Intelligence, Demand Prediction, Consumer Insights","Bigdata, ML,AI,Computer vision","3430, 3rd Cross Rd, Stage 3, Indiranagar, Bengaluru, Karnataka 560038 ",Bangalore,560038,1,28,10-Dec-15,5.9,31,,3,,,4,Growth,,,,100,,16.3
+317,Xenon Automotive India,"Fintech - Insurtech,  Automotive",Automation,"AI, Computer Vision","813, 23rd Main, 12 B Cross, JP Nagar Phase 2, Bengaluru, Karnataka 560078, IN",Bangalore,560078,3,20,1-Apr-14,7.5,29,,3,,,4,Growth,0.985,30-Sep-16,,6,,6.4
+318,Appknox,Cybersecurity,App Security Testing,"Vulnerability, Penetration Testing","473/1, Krishna Temple Road, Indiranagar Stage 1, Bangalore, Karnataka 560038",Bangalore,560038,1,8,08-Jan-16,5.8,34,,3,,,4,Growth,0.66,16-Aug-16,,,,4.6
+319,Niral Networks,Telecom,Software Defined Networking,"5G, ORAN, SDN","Niral Networks Private Limited, 2nd Floor, Alpha Block, Sigma Soft Tech Park, Whitefield Main Road, Varthur Kodi, Bengaluru, India 560066 ",Bangalore,560066,3,18,11-Jul-19,2.3,6,,4,,,2,Pilot,,,,3,,3.6
+320,Lekha Wireless,Telecom,Wireless Infrastructure,"3GPP, 5GNR, NBIoT, DSP Processor firmware","Roshini Chambers #947, 24th Main Road, J P Nagar 2nd phase, Bangalore- 560078, Karnataka, India",Bangalore,560078,1,21,16-Nov-10,10.9,152,,4,3,,4,Growth,,,7,,360,22.8
+321,Signalchip,Telecom,Fab-less semiconductors,RF Chip Design,"4C-116, 4th Cross, OMBR Layout, Banaswadi, Bangalore-560043, India",Bangalore,560043,3,23,14-Jul-10,11.3,47,,4,,,4,Growth,6.54,18-Mar-16,,,,8.4
+322,Nivetti Systems,Telecom,"Network infrastructure, Cyber Security ",Network Operating System,"Research & Innovation wing, PESU ECC Main Rd, Konappana Agrahara, Electronic City, Bengaluru, Karnataka 560100",Bangalore,560100,1,20,18-Feb-14,7.7,20,,4,,,2,Pilot,1.73,20-May-16,,,,5.0
+323,Prakshep,"AgriTech, Mapping","Geofencing, Survey","Satellites, Drones, Vehicle sensors, AI ","Prakshep Pvt Ltd, 673, 29th Main road BTM Stage 2, Bangalore, Karnataka 560076, IN",Bangalore,560076,1,5,05-Dec-16,4.9,12,,4,,,1,Early Stage,0.5,07-Jul-17,,,,2.4
+324,Wellnesys Solutions,HealthTech,FitnessTech,"IoT, Artificial Intelligence, Computer Vision, AR/VR","2nd floor, 66, 478/1, 33rd Cross Rd, 4th Block,
+Jayanagar, Bengaluru, Karnataka 560011",Bangalore,560011,3,16,17-Oct-18,3.0,22,,3,,,1,Early Stage,,,,,,4.0
+325,Embedsense Solutions,Enterprise Tech,IIoT,"Structural Health Monitoring, Wireless Sensors","No. 28/1, SBM Colony, 2nd Main Anandnagar, Bengaluru, Karnataka-560024",Bangalore,560024,3,22,04-Sep-15,6.1,21,,3,6,,3,Early Traction,0.1,01-Aug-19,,9,,6.4
+326,Hachidori Robotics,Robotics,Autonomous Mobile Robot (AMR),Warehouse Automation,"No G1 & G2 ,#150/151, Meenakshi Layout, Kalena Agrahara, Gottigere Bangalore 560076",Bangalore,560076,3,23,16-Aug-19,2.2,5,,3,,,1,Early Stage,,,,,,3.5
+327,Amberroot Systems,Power Electronics,Electric Motors,Solar Powered,"251/252 , 3rd Main, 3rd Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",Bangalore,560078,1,25,03-Apr-09,12.5,12,,3,,,4,Growth,,,,,500,15.4
+328,GetVu,AR/VR,"Training, Education, Remote Operations","AR, VR, MR","#1564, 3rd floor, Revanna's, HSR Layout 2nd Sector, 27th Main Road, Bengaluru Karnataka 560102",Bangalore,560102,1,5,Strike Off,0.0,2,,3,,,0,Wound Up,0.025,21-Jan-14,,,,1.0
+329,TalaSecure,Cybersecurity,IoT Device Security,"IoT, Cybersecurity","Shravanthi Orchids, Padmanabanagar, 006, Bangalore, Karnataka 560070 ",Bangalore,560070,3,35.4,03-Jul-16,5.3,6,,4,1,Cisco Launchpad Cohort 3,3,Pilots,14.6,07-Jun-19,2.5,,,7.2
+330,CloudSEK,Cybersecurity,AI,SaaS,"CloudSek Info Security Pvt. Ltd., 901, MSM Corner, 7th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bangalore, Karnataka 560038",Bangalore,560038,3,11.4,11-Sep-15,6.1,88,,4,2,"1) NASSCOM Emerge 50
+2) NetApp Cohort 5",4,Growing,2.5,26-Feb-19,1,14,,10.8
+331,Sequretek,Cybersecurity,"Complaince, Threat Monitoring",Cybersecurity,"118 Gayathri Lake Front,
+Ring Road, Hebbal,
+Bengaluru - 560024",Bangalore,560024,3,28.4,06-Nov-13,7.9,262,,4,,,4,Growing,5,30-Jun-20,,120,,35.5
+332,Seconize,Cybersecurity,"Complaince, Risk Mgmt, Threat Intelligence",Cybersecurity,"DD3, Diamond District,, HAL Old Airport Rd, ISRO Colony, Domlur, Bengaluru, Karnataka 560008",Bangalore,560008,3,19.5,04-Dec-17,3.9,10,,4,,,2,Growing,,,,11,,4.9
+333,Thinking Stack,AI,CV,Video Analytics,"We Work Galaxy, 43, Residency Road
+Bengaluru - 560025",Bangalore,560025,3,15,29-Mar-19,2.6,7,,3,,,1,Unfunded,,,,,,2.9
+334,Emelite Technologies,Design House,Power Electronics,"Automotive, Solar, PE","#257, Sri Nanjundeshwara Complex, Nagarbhavi 8th block, 2nd Stage, ORR, opp to Vijaya Nethralaya Hospital, Bangalore - 560072",Bangalore,560072,2,18.4,06-Jun-20,1.4,14,,4,,,1,Bootstrapped,,,,12,60,6.0
+335,Semicosys Electronics,Power Electronics,"UPS, BioMedical",,"#867/A, 1ST Floor Adithya Complex, 2nd Cross, Gokula 1st stage, Mathikere, Bangalore – 560054",Bangalore,560054,1,12.4,20-Feb-15,6.7,28,,4,,,4,Growing,,,,29,,7.6
+336,Stellapps Technologies,AgriTech,Animal Husbandry,Cattle Management,"46/4, Novel Tech Park, Kudlu Gate, GB Palya, Hosur Road,Bangalore, Karnataka-560068",Bangalore,560068,3,25.4,20-Apr-11,10.5,288,,4,22,https://www.stellapps.com/about/,4,Established,18.8,17-Jun-20,,27,,30.9
+337,Tulasi Technologies,AgriTech,Animal Husbandry,Poultry Software,"Sakti Statesman, 507, Sy No.34/1,7th Main, Ibblur,
+Landmark : Sarjapur-Outer Ring Road Junction,
+Near Sun City Apartments, Bangalore-560103",Bangalore,560103,2,19.4,19-Jul-06,15.3,30,,3,,,4,Established,,,,24,,8.8
+338,Chipster Technologies,"IIoT, AI",Smart Factory,Machine Analytics,"#32, Duo Residency Jakkur Plantation Bellary Road Yelahanka Post Bangalore Bangalore KA 560064",Bangalore,560064,2,17.4,14-Feb-13,8.7,7,,4,1,"top 10 startups at TiE Antahprerana, in the Hardware startups category for the Compact Desktop PC design and development",4,Bootstarpped,,,,8,,4.9
+339,Innvolution Healthcare,HealthTech,Imaging Devices,"Imaging, Medical","#121F, Bommasandra Industrial Area,Phase 1, Hosur Main Road, Electronic City, Bangalore - 99, Karnataka, India
+",Bangalore,560009,3,19.5,20-Dec-11,9.8,69,,3,6,https://innvolutionimaging.com/about_us/,4,Growing,,,,9,,10.0
+340,Camcom (Gifto Retail),Enterprise Tech,AI,Saas,"136, 3rd Cross, 3rd Main, JP Nagar Dollars Colony, Bengaluru South, Karnataka 560078",Bangalore,560078,1,25.4,07-Sep-17,4.1,45,,3,8,on website,4,Seed,2.04,13-Feb-20,,4,,8.0
+341,LitmusEye,Finance,"Auditing, Invoice Fraud Analytics","CV, NLP, SaaS","4th Floor, No 22, Salarpuria Towers-1, Hosur Road, Koramanagala, Bangalore Ka 560095",Bangalore,560095,1,9.5,04-Jun-20,1.4,5,18,4,,,3,Pilot,0.055,14-Sep-20,,,,3.5
+342,Kalpnik,Tourism,AR/VR,,"Second Floor, RXDX Building
+Plot No. 7G, Opp. Graphite India
+Whitefield, Bengaluru – 560048",Bangalore,560048,3,19.5,22-Jul-16,5.2,6,,4,,,1,Seed funded,0.852,20-Apr-19,,,,3.7
+343,FlippAR Go,Tourism,AR/VR,,"4th Floor, NUMA Bengaluru
+46/1, Church Street
+Bangalore 560001",Bangalore,560001,3,21,12-Aug-15,6.2,6,,3,,,1,Unfunded,,,,,,3.7
+344,TraceX Technologies,Agri,Track and trace,Blockchain,"113, 6th Cross, E-Block, Krishna Gardens, RR Nagar",Bangalore,560059,3,44,29-Aug-19,2.1,17,,3,,,,,0.188,29-Oct-20,,,,6.3
+345,Trinity Mobility,Smart Cities,IIoT,Device Platforms,"#21/1-1, Nawab Towers,
+Cunningham Road,
+Bengaluru, Karnataka - 560052",Bangalore,560052,2,34,04-Jun-11,10.4,280,,4,,,4,Growth,32.5,16-Nov-20,,,12003,268.3
+346,Minion Labs,Urbantech,Smart Buildings,AI,"No.2281, 14th A Main Road,
+Off 100 Feet Road, Near New Horizon School,
+HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka - 560008",Bangalore,560008,1,5.6,07-Jul-17,4.3,11,,4,,,1,Seed,0.2,27-Feb-20,,,37.5,3.1
+347,Playsolar Systems,Urbantech,Solar Energy,Analytics,"#2434, Kashi, 15th A Cross, 26th Main,
+Sector I, HSR Layout, Bengaluru - 560102",Bangalore,560102,3,21.5,08-May-15,6.4,6,,4,,,1,Seed,0.1,03-Mar-18,,,,3.9
